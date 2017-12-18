@@ -92,6 +92,7 @@ Previously known as, in chronological order:
 * Scapy: explore the net with new eyes by Philippe Biondi at [T2](https://t2.fi/): [Slides](scapy/scapy_T2.pdf)
 * Network packet forgery with Scapy by Philippe Biondi at [PacSec](https://pacsec.jp/): [Slides](scapy/scapy_pacsec05.pdf)
 * VoIP security by Nicolas Bareil at [SSTIC](https://www.sstic.org/): [Slides](voip/SSTIC05-Bareil-VOIP_Projet_ILTY.pdf) (French), [Paper](voip/SSTIC05-article-Bareil-VOIP_Projet_ILTY.pdf) (French)
+* Shellforge at Libre Software Meeting [LSM/RMLL](https://2017.rmll.info): [Slides](pdf/shellforge_lsm2005.pdf)
 * Utilisation des outils Honeypot pour la détection d’intrusion by Philippe Biondi et Cédric Blancher at EUROSEC: [Slides](pdf/0503_Eurosec_HoneypotIDS.pdf) (French)
 * Protocoles réseau : grandeur et décadence by Cédric Blancher, Nicolas Fischbach and Pierre Betouin at [SSTIC](https://www.sstic.org/): [Slides](protocoles/SSTIC05-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) (French), [Paper](protocoles/SSTIC05-article-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) (French)
 
