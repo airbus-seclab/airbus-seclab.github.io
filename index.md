@@ -36,7 +36,7 @@ Previously known as, in chronological order:
 * A peek under the Blue Coat by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf), [video](https://www.youtube.com/watch?v=KMbWS2-KK9M)
 * Implementing Your Own Generic Unpacker by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf), [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * REbus: a communication bus for security tools interactions by Philippe Biondi, Sarah Zennou, Xavier Mehrenberger at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) (French), [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) (French), [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) (French)
-* Active Directory security analysis with BTA tool:
+* Active Directory security analysis with BTA tool by Joffrey Czarny and Philippe Biondi:
   * Presented at [SSTIC 2014](https://www.sstic.org/2014/news/), [Hack.lu 2015](http://2015.hack.lu/talks/), [BlackHat USA Arsenal](https://www.blackhat.com/us-15/arsenal.html#active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis)
   * [Slides](bta/BH_Arsenal_US-15-bta.pdf) (English), [Slides](bta/SSTIC2014-Slides-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi_1.pdf) (French), [Paper](bta/SSTIC2014-Article-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi.pdf) (French)
   * [Code](https://bitbucket.org/iwseclabs/bta/)
