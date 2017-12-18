@@ -10,6 +10,8 @@ Previously known as, in chronological order:
 
 # 2017
 
+* An analysis of the Warbird virtual-machine protection for the `CI!g_pStore` by Alexandre Gazet: [Post](https://github.com/airbus-seclab/warbirdvm/blob/master/README.rst), [GitHub](https://github.com/airbus-seclab/warbirdvm/)
+* PowerSAP: PowerShell tool to assess SAP security by Joffrey Czarny at [Troopers](https://www.troopers.de/troopers17/talks/768-holy-crap-i-need-to-pentest-sap-from-citrix/), [Black Hat](https://www.blackhat.com/us-17/arsenal/schedule/#powersap-powershell-tool-to-assess-sap-security-8086) (USA and Europe), and [UniverShell](http://www.univershell.net): [Slides](powersap/powersap-czarny.pdf), [GitHub](https://github.com/airbus-seclab/powersap)
 * BinCAT: purrfecting binary static analysis, by Philippe Biondi, Xavier Mehrenberger, Raphaël Rigo and Sarah Zennou:
     * [REcon](https://recon.cx/2017/montreal/): [Slides](bincat/RECON-MTL-2017-bincat-biondi_rigo_zennou_mehrenberger.pdf), [GitHub](https://github.com/airbus-seclab/bincat).
     * [SSTIC](https://www.sstic.org): [Slides](bincat/SSTIC2017-Slides-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf) (French), [Paper](bincat/SSTIC2017-Article-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf), [GitHub](https://github.com/airbus-seclab/bincat).
