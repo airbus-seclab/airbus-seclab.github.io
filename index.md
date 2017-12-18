@@ -24,7 +24,7 @@ Previously known as, in chronological order:
 # 2016
 
 * Dungeons and Dragons and Security by Tiphaine Romand-Latapie at [Black Hat USA](https://www.blackhat.com/us-16/speakers/Tiphaine-Romand-Latapie.html) and [THCon'17](https://17.thcon.party/): [Slides](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security.pdf), [Paper](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security-wp.pdf)
-* Gunpack: un outil générique d'unpacking de malwares at [SSTIC](https://www.sstic.org): [Slides](gunpack/SSTIC2016-Slides-gunpack-lenoir.pdf) (French), [Paper](gunpack/SSTIC2016-Article-gunpack-lenoir.pdf) (French), [Code](https://bitbucket.org/iwseclabs/gunpack).
+* Gunpack: un outil générique d'unpacking de malwares by Julien Lenoir at [SSTIC](https://www.sstic.org): [Slides](gunpack/SSTIC2016-Slides-gunpack-lenoir.pdf) (French), [Paper](gunpack/SSTIC2016-Article-gunpack-lenoir.pdf) (French), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * USB Toolkit by Benoit Camredon at [SSTIC](https://www.sstic.org): [Slides](usbq/SSTIC2016-Slides-usb_toolkit-camredon.pdf) (French), [Paper](usbq/SSTIC2016-Article-usb_toolkit-camredon.pdf), [GitHub (kernel)](https://github.com/airbus-seclab/usbq_core), [GitHub (user)](https://github.com/airbus-seclab/usbq_userland).
 * App vs Wild by Stéphane Duverger at [SSTIC](https://www.sstic.org) and [THCon'17](https://17.thcon.party/): [Slides](ramooflax/SSTIC2016-Slides-app_vs_wild-duverger.pdf) (French), [Paper](ramooflax/SSTIC2016-Article-app_vs_wild-duverger.pdf) (French), [GitHub (ramooflax)](https://github.com/airbus-seclab/ramooflax).
 * Lost your “secure” HDD PIN? We can help! by Julien Lenoir & Raphaël Rigo:
