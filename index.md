@@ -1,4 +1,6 @@
-# Publications by Airbus security lab
+---
+title: Publications by Airbus security lab
+---
 
 Previously known as, in chronological order:
 
@@ -6,7 +8,7 @@ Previously known as, in chronological order:
 - EADS Innovation Works (IW) security lab
 - Airbus Group Innovations security lab
 
-## 2017
+# 2017
 
 * BinCAT: purrfecting binary static analysis, by Philippe Biondi, Xavier Mehrenberger, Raphaël Rigo and Sarah Zennou:
     * [REcon](https://recon.cx/2017/montreal/): [Slides](bincat/RECON-MTL-2017-bincat-biondi_rigo_zennou_mehrenberger.pdf), [GitHub](https://github.com/airbus-seclab/bincat).
