@@ -21,13 +21,13 @@ Previously known as, in chronological order:
 
 * Gunpack: un outil générique d'unpacking de malwares at [SSTIC](https://www.sstic.org): [Slides](gunpack/SSTIC2016-Slides-gunpack-lenoir.pdf) (French), [Paper](gunpack/SSTIC2016-Article-gunpack-lenoir.pdf) (French), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * USB Toolkit by Benoit Camredon at [SSTIC](https://www.sstic.org): [Slides](usbq/SSTIC2016-Slides-usb_toolkit-camredon.pdf) (French), [Paper](usbq/SSTIC2016-Article-usb_toolkit-camredon.pdf), [GitHub (kernel)](https://github.com/airbus-seclab/usbq_core), [GitHub (user)](https://github.com/airbus-seclab/usbq_userland).
-* App vs Wild by Stéphane Duverger at [SSTIC](https://www.sstic.org): [Slides](appvswild/SSTIC2016-Slides-app_vs_wild-duverger.pdf) (French), [Paper](appvswild/SSTIC2016-Article-app_vs_wild-duverger.pdf) (French), [GitHub (ramooflax)](https://github.com/airbus-seclab/ramooflax).
+* App vs Wild by Stéphane Duverger at [SSTIC](https://www.sstic.org): [Slides](ramooflax/SSTIC2016-Slides-app_vs_wild-duverger.pdf) (French), [Paper](ramooflax/SSTIC2016-Article-app_vs_wild-duverger.pdf) (French), [GitHub (ramooflax)](https://github.com/airbus-seclab/ramooflax).
 * Lost your “secure” HDD PIN? We can help! by Julien Lenoir & Raphaël Rigo:
     * [H2HC](https://www.h2hc.com.br/h2hc/en/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf)
     * [Ekoparty](https://ekoparty.org/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf)
 
 # 2015
-* Failure is not an option (Keynote) by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf), [video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
+* Failure is not an option (Keynote) by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf), [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
 * A peek under the Blue Coat by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf), [video](https://www.youtube.com/watch?v=KMbWS2-KK9M)
 * Implementing Your Own Generic Unpacker by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf), [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * REbus: a communication bus for security tools interactions at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) (French), [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) (French), [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) (French)
@@ -83,11 +83,11 @@ Previously known as, in chronological order:
 
 # 2005
 
-* Attacking WiFi with traffic injection by Cédric Blancher at [Ruxcon](https://ruxcon.org.au/), [PacSec](https://pacsec.jp/), Syscan, [REcon](https://recon.cx)
+* Attacking WiFi with traffic injection by Cédric Blancher at [Ruxcon](https://ruxcon.org.au/) ([Slides](wifi/0510_Ruxcon_WirelessInjection.pdf)), [PacSec](https://pacsec.jp/) ([Slides](wifi/0511_Pacsec_WirelessInjection_en.pdf)), SyScan ([Slides](wifi/0509_Syscan_WirelessInjection.pdf)), [REcon](https://recon.cx) ([Slides](wifi/0506_Recon_WirelessInjection.pdf))
 * Scapy: explore the net with new eyes by Philippe Biondi at [T2](https://t2.fi/): [Slides](scapy/scapy_T2.pdf)
-* Network packet forgery with Scapy [PacSec](https://pacsec.jp/): [Slides](scapy/scapy_pacsec05.pdf)
+* Network packet forgery with Scapy by Philippe Biondi at [PacSec](https://pacsec.jp/): [Slides](scapy/scapy_pacsec05.pdf)
 * VoIP security by Nicolas Bareil at [SSTIC](https://www.sstic.org/): [Slides](voip/SSTIC05-Bareil-VOIP_Projet_ILTY.pdf) (French), [Paper](voip/SSTIC05-article-Bareil-VOIP_Projet_ILTY.pdf) (French)
-* Utilisation des outils Honeypot pour la détection d’intrusion by Philippe Biondi et Cédric Blancher at EUROSEC: [Slides](pdf/0503_Eurosec_HoneypotIDS.pdf)
+* Utilisation des outils Honeypot pour la détection d’intrusion by Philippe Biondi et Cédric Blancher at EUROSEC: [Slides](pdf/0503_Eurosec_HoneypotIDS.pdf) (French)
 * Protocoles réseau : grandeur et décadence by Cédric Blancher, Nicolas Fischbach and Pierre Betouin at [SSTIC](https://www.sstic.org/): [Slides](protocoles/SSTIC05-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) (French), [Paper](protocoles/SSTIC05-article-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) (French)
 
 # 2004
