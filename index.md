@@ -37,11 +37,15 @@ Previously known as, in chronological order:
 * Implementing Your Own Generic Unpacker by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf), [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * REbus: a communication bus for security tools interactions by Philippe Biondi, Sarah Zennou, Xavier Mehrenberger at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) (French), [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) (French), [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) (French)
 * Active Directory security analysis with BTA tool by Joffrey Czarny and Philippe Biondi:
-  * Presented at [SSTIC 2014](https://www.sstic.org/2014/news/), [Hack.lu 2015](http://2015.hack.lu/talks/), [BlackHat USA Arsenal](https://www.blackhat.com/us-15/arsenal.html#active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis)
+  * Presented at [Hack.lu 2015](http://2015.hack.lu/talks/), [BlackHat USA Arsenal](https://www.blackhat.com/us-15/arsenal.html#active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis)
   * [Slides](bta/BH_Arsenal_US-15-bta.pdf) (English), [Slides](bta/SSTIC2014-Slides-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi_1.pdf) (French), [Paper](bta/SSTIC2014-Article-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi.pdf) (French)
   * [Code](https://bitbucket.org/iwseclabs/bta/)
 * Reverse Engineering: the case of encrypted hard drives by Joffrey Czarny & Raphaël Rigo at [SSTIC](https://www.sstic.org/2014/news/) and [Hardwear.io](https://hardwear.io/archive-2015.php): [Slides](hdd/hardwear.io_2015-hardware_re_for_software_reversers-By-Czarny-Rigo.pdf) (English), [Slides](hdd/SSTIC2015-Slides-hardware_re_for_software_reversers-czarny_rigo.pdf) (French), [Paper](hdd/SSTIC2015-Article-hardware_re_for_software_reversers-czarny_rigo.pdf) (English)
 * The challenge of designing a secure encrypted hard drive by Raphaël Rigo at SyScan: [Slides](hdd/syscan_2015_rigo_secure_hdd.pdf), [Video](https://www.youtube.com/watch?v=wfQy4uOhUCg)
+
+# 2014
+
+* Active Directory security analysis with BTA tool by Joffrey Czarny and Philippe Biondi at [SSTIC 2014](https://www.sstic.org/2014/news/)
 
 # 2012
 
