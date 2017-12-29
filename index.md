@@ -50,7 +50,6 @@ Previously known as, in chronological order:
 # 2012
 
 * Protection Against Reverse Engineering by Code Obfuscation by Axel Tillequin at [PPREW](http://www.pprew.org/)’1
-* Sécurité de Remote Desktop Protocol (Remote Desktop Protocol Security) by Arnaud Ebalard, Raphaël Rigo and Aurélien Bordes at [SSTIC](https://www.sstic.org): [Slides](rdp/SSTIC2012-Slides-securite_rdp-ebalard_bordes_rigo_2.pdf) (French), [Paper](rdp/SSTIC2012-Article-securite_rdp-ebalard_bordes_rigo_2.pdf) (French)
 
 # 2011
 
