@@ -20,6 +20,7 @@ Previously known as, in chronological order:
     * CrashOS: Hypervisor testing tool at [ISSRE](http://www.issre.net/): [Slides](crashos/ISSRE2017-CrashOS-Gantet.pdf)
 * `cpu_rec.py`, un outil statistique pour la reconnaissance d'architectures binaires exotiques by Louis Granboulan:
     * [SSTIC](https://www.sstic.org): [Slides](cpurec/SSTIC2017-Slides-cpu_rec-granboulan.pdf) (French), [Paper](cpurec/SSTIC2017-Article-cpu_rec-granboulan.pdf) (French), [GitHub](https://github.com/airbus-seclab/cpu_rec).
+* Blackbox reconstruction of SD card accesses by Xavier Mehrenberger and Raphaël Rigo at [BeeRumP](http://www.rump.beer/): [Slides](pdf/2017-beerump-blackbox_reconstruction_of_sd_card_accesses.pdf) (French).
 
 # 2016
 
