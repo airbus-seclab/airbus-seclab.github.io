@@ -76,7 +76,9 @@ Previously known as, in chronological order:
 
 # 2007
 * IPv6 routing header security by Philippe Biondi and Arnaud Ebalard at [CanSecWest](https://cansecwest.com/): [Slides](ipv6/IPv6_RH_security-csw07.pdf)
-* Exploitation en espace noyau (kernel space exploitation) by Stéphane Duverger at [SSTIC](https://www.sstic.org/): [Slides](kernsploit/SSTIC2007-Slides-Exploitation_en_espace_noyau-duverger.pdf) (French), [Paper](kernsploit/SSTIC2007-Article-Exploitation_en_espace_noyau-duverger.pdf) (French)
+* Linux 2.6 kernel exploits by Stéphane Duverger at:
+  * [SSTIC](https://www.sstic.org/): [Slides](kernsploit/SSTIC2007-Slides-Exploitation_en_espace_noyau-duverger.pdf) (French), [Paper](kernsploit/SSTIC2007-Article-Exploitation_en_espace_noyau-duverger.pdf) (French)
+  * Syscan: [Slides](kernsploit/kernel_exploit_syscan07.pdf)
 * Analyse statique par interprétation abstraite (static analysis by abstract interpretation) by Charles Hymans and Xavier Allamigeon at [SSTIC](https://www.sstic.org/)
 * Aircraft Onboard Systems Security by Cédric Blancher at Bellua Cyber Security
 * Autopsie d'une intrusion "tout en mémoire" sous Windows (Autopsy of a Windows in-memory intrusion) by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](inmemory/SSTIC2007-Slides-Autopsie_d_une_intrusion_tout_en_memoire_sous_Windows-ruff.pdf) (French), [Paper](inmemory/SSTIC2007-Article-Autopsie_d_une_intrusion_tout_en_memoire_sous_Windows-ruff.pdf) (French)
