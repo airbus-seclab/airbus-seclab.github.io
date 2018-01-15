@@ -10,6 +10,9 @@ Airbus security lab was previously known as, in chronological order:
 
 ### 2017
 
+
+#### Publications
+
 * *An analysis of the Warbird virtual-machine protection for the `CI!g_pStore`* by Alexandre Gazet: [Post](https://github.com/airbus-seclab/warbirdvm/blob/master/README.rst), [GitHub](https://github.com/airbus-seclab/warbirdvm/)
 * *PowerSAP: PowerShell tool to assess SAP security* by Joffrey Czarny at [Troopers](https://www.troopers.de/troopers17/talks/768-holy-crap-i-need-to-pentest-sap-from-citrix/), [Black Hat](https://www.blackhat.com/us-17/arsenal/schedule/#powersap-powershell-tool-to-assess-sap-security-8086) (USA and Europe), and [UniverShell](http://www.univershell.net): [Slides](powersap/univershell-17-powersap-czarny.pdf), [GitHub](https://github.com/airbus-seclab/powersap)
 * *BinCAT: purrfecting binary static analysis,* by Philippe Biondi, Xavier Mehrenberger, Raphaël Rigo and Sarah Zennou:
@@ -21,6 +24,13 @@ Airbus security lab was previously known as, in chronological order:
 * *`cpu_rec.py`, un outil statistique pour la reconnaissance d'architectures binaires exotiques* by Louis Granboulan:
     * [SSTIC](https://www.sstic.org): [Slides](cpurec/SSTIC2017-Slides-cpu_rec-granboulan.pdf) :fr:, [Paper](cpurec/SSTIC2017-Article-cpu_rec-granboulan.pdf) :fr:, [GitHub](https://github.com/airbus-seclab/cpu_rec).
 * *Blackbox reconstruction of SD card accesses* by Xavier Mehrenberger and Raphaël Rigo at [BeeRumP](http://www.rump.beer/): [Slides](pdf/2017-beerump-blackbox_reconstruction_of_sd_card_accesses.pdf) :fr:.
+
+#### Advisories
+
+* Three vulnerabilities in Tofino Xenon Security Appliance - 3.10 and earlier by Julien Lenoir, [details](advisories/tofino.md):
+    * `CVE-2017-11400`: Incomplete firmware signature
+    * `CVE-2017-11401`: DPI ModBus filter bypass
+    * `CVE-2017-11400`: Firewall bypass
 
 ### 2016
 
