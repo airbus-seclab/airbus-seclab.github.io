@@ -39,9 +39,9 @@ Airbus security lab was previously known as, in chronological order:
 * REbus: a communication bus for security tools interactions by Philippe Biondi, Sarah Zennou, Xavier Mehrenberger at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) :fr:
 * Active Directory security analysis with BTA tool by Joffrey Czarny and Philippe Biondi:
   * Presented at [Hack.lu 2015](http://2015.hack.lu/talks/), [BlackHat USA Arsenal](https://www.blackhat.com/us-15/arsenal.html#active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis)
-  * [Slides](bta/BH_Arsenal_US-15-bta.pdf) (English), [Slides](bta/SSTIC2014-Slides-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi_1.pdf) :fr:, [Paper](bta/SSTIC2014-Article-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi.pdf) :fr:
+  * [Slides](bta/BH_Arsenal_US-15-bta.pdf) :gb:, [Slides](bta/SSTIC2014-Slides-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi_1.pdf) :fr:, [Paper](bta/SSTIC2014-Article-BTA_Analyse_de_la_securite_Active_Directory-czarny_biondi.pdf) :fr:
   * [Code](https://bitbucket.org/iwseclabs/bta/)
-* Reverse Engineering: the case of encrypted hard drives by Joffrey Czarny & Raphaël Rigo at [SSTIC](https://www.sstic.org/2014/news/) and [Hardwear.io](https://hardwear.io/archive-2015.php): [Slides](hdd/hardwear.io_2015-hardware_re_for_software_reversers-By-Czarny-Rigo.pdf) (English), [Slides](hdd/SSTIC2015-Slides-hardware_re_for_software_reversers-czarny_rigo.pdf) :fr:, [Paper](hdd/SSTIC2015-Article-hardware_re_for_software_reversers-czarny_rigo.pdf) (English)
+* Reverse Engineering: the case of encrypted hard drives by Joffrey Czarny & Raphaël Rigo at [SSTIC](https://www.sstic.org/2014/news/) and [Hardwear.io](https://hardwear.io/archive-2015.php): [Slides](hdd/hardwear.io_2015-hardware_re_for_software_reversers-By-Czarny-Rigo.pdf) :gb:, [Slides](hdd/SSTIC2015-Slides-hardware_re_for_software_reversers-czarny_rigo.pdf) :fr:, [Paper](hdd/SSTIC2015-Article-hardware_re_for_software_reversers-czarny_rigo.pdf) :gb:
 * The challenge of designing a secure encrypted hard drive by Raphaël Rigo at SyScan: [Slides](hdd/syscan_2015_rigo_secure_hdd.pdf), [Video](https://www.youtube.com/watch?v=wfQy4uOhUCg)
 
 ### 2014
@@ -57,7 +57,7 @@ Airbus security lab was previously known as, in chronological order:
 * Sécurité du système Android (The security of Android) by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](android/SSTIC2011-Slides-Securite_Android-ruff.pdf) :fr:, [Paper](android/SSTIC2011-Article-Securite_Android-ruff.pdf) :fr:
 * [SSTIC](https://www.sstic.org/) [challenge](http://communaute.sstic.org/ChallengeSSTIC2011) best [solution](pdf/SSTIC_Challenge_2011-Tillequin.pdf) :fr: by Axel Tillequin.
 * Pre-boot virtualization of a physical appliance with ramooflax by Stéphane Duverger at
-  * [PacSec](https://pacsec.jp/psj11archive.html): [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_en.pdf) (English), [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_jp.pdf) :jp:
+  * [PacSec](https://pacsec.jp/psj11archive.html): [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_en.pdf) :gb:, [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_jp.pdf) :jp:
   * [SSTIC](https://www.sstic.org/): [Slides](ramooflax/SSTIC2011-Slides-virtualisation_dun_poste_physique_depuis_le_boot-duverger.pdf) :fr:, [Paper](ramooflax/SSTIC2011-Article-virtualisation_dun_poste_physique_depuis_le_boot-duverger_1.pdf) :fr:
 
 ### 2010
