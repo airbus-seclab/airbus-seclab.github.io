@@ -2,7 +2,7 @@
 title: Publications by Airbus security lab
 ---
 
-Previously known as, in chronological order:
+Airbus security lab was previously known as, in chronological order:
 
 - EADS CCR security lab
 - EADS Innovation Works (IW) security lab
