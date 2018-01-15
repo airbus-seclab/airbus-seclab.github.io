@@ -57,7 +57,7 @@ Airbus security lab was previously known as, in chronological order:
 * Sécurité du système Android (The security of Android) by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](android/SSTIC2011-Slides-Securite_Android-ruff.pdf) :fr:, [Paper](android/SSTIC2011-Article-Securite_Android-ruff.pdf) :fr:
 * [SSTIC](https://www.sstic.org/) [challenge](http://communaute.sstic.org/ChallengeSSTIC2011) best [solution](pdf/SSTIC_Challenge_2011-Tillequin.pdf) :fr: by Axel Tillequin.
 * Pre-boot virtualization of a physical appliance with ramooflax by Stéphane Duverger at
-  * [PacSec](https://pacsec.jp/psj11archive.html): [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_en.pdf) (English), [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_jp.pdf) :ja:
+  * [PacSec](https://pacsec.jp/psj11archive.html): [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_en.pdf) (English), [Slides](ramooflax/PacSec2011_Ramooflax-Preboot-Virtualization_jp.pdf) :jp:
   * [SSTIC](https://www.sstic.org/): [Slides](ramooflax/SSTIC2011-Slides-virtualisation_dun_poste_physique_depuis_le_boot-duverger.pdf) :fr:, [Paper](ramooflax/SSTIC2011-Article-virtualisation_dun_poste_physique_depuis_le_boot-duverger_1.pdf) :fr:
 
 ### 2010
