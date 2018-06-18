@@ -16,6 +16,8 @@ Airbus security lab was previously known as, in chronological order:
 
 * *Subverting your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [RECON](https://recon.cx/2018/brussels/talks/subvert_server_bmc.html) (Brussels): [Slides](ilo/RECONBRX2018-Slides-Subverting_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
+* *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/subverting_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
+
 
 
 ### 2017
