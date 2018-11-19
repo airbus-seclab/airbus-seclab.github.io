@@ -14,7 +14,7 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
-* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](https://github.com/airbus-seclab/android_emuroot/blob/master/docs/Blackhoodie18/emuroot_slides.pdf), [Demo](https://github.com/airbus-seclab/android_emuroot/blob/master/docs/Blackhoodie18/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
+* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/android_emuroot/emuroot_slides.pdf), [Demo](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/android_emuroot/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
 
 * *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/backdooring_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
