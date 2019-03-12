@@ -13,7 +13,7 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
-* *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/GUSTAVE_thcon/GUSTAVE_thcon.pdf)
+* *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/GUSTAVE_thcon/GUSTAVE_thcon.pdf) :gb:
 
 
 ### 2018
