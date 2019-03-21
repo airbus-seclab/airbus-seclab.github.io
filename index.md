@@ -13,6 +13,8 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
+* Defeating NotPetya from your iLO by Joffrey Czarny (Medallia), Alexandre Gazet, Adrien Guinet (Quarkslab), Fabien Perigaud (Synacktiv): [Whitepaper](ilo/Whitepaper-Defeating_NotPetya_from_your_iLO4-guinet-perigaud-gazet-czarny.pdf) :gb:
+
 * *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/GUSTAVE_thcon/GUSTAVE_thcon.pdf) :gb:
 
 
