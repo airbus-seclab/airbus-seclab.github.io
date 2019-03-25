@@ -17,7 +17,7 @@ Airbus security lab was previously known as, in chronological order:
 
 * *Defeating NotPetya from your iLO* by Joffrey Czarny (Medallia), Alexandre Gazet, Adrien Guinet (Quarkslab), Fabien Perigaud (Synacktiv): [Whitepaper](ilo/Whitepaper-Defeating_NotPetya_from_your_iLO4-guinet-perigaud-gazet-czarny.pdf) :gb:
 
-* *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/GUSTAVE_thcon/GUSTAVE_thcon.pdf) :gb:
+* *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](GUSTAVE_thcon/GUSTAVE_thcon.pdf) :gb:
 
 
 ### 2018
@@ -27,7 +27,7 @@ Airbus security lab was previously known as, in chronological order:
 
 * *Turning your BMC into a revolving door* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [ZeroNights](https://2018.zeronights.ru/en/): [Slides](ilo/ZERONIGHTS2018-Slides-EN-Turning_your_BMC_into_a_revolving_door-perigaud-gazet-czarny.pdf) :gb:
 
-* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/android_emuroot/emuroot_slides.pdf), [Demo](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/android_emuroot/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
+* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](android_emuroot/emuroot_slides.pdf), [Demo](android_emuroot/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
 
 * *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/backdooring_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
