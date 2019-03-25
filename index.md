@@ -13,7 +13,9 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
-* Defeating NotPetya from your iLO by Joffrey Czarny (Medallia), Alexandre Gazet, Adrien Guinet (Quarkslab), Fabien Perigaud (Synacktiv): [Whitepaper](ilo/Whitepaper-Defeating_NotPetya_from_your_iLO4-guinet-perigaud-gazet-czarny.pdf) :gb:
+* *Riding the lightning: iLO4&5 BMC security wrap-up* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [Insomni'hack](https://insomnihack.ch/): [Slides](ilo/INSOMNIHACK2019-Slides-Riding_the_lightning_iLO4_5_BMC_security_wrapup-perigaud-gazet-czarny.pdf) :gb:
+
+* *Defeating NotPetya from your iLO* by Joffrey Czarny (Medallia), Alexandre Gazet, Adrien Guinet (Quarkslab), Fabien Perigaud (Synacktiv): [Whitepaper](ilo/Whitepaper-Defeating_NotPetya_from_your_iLO4-guinet-perigaud-gazet-czarny.pdf) :gb:
 
 * *GUSTAVE: Fuzzing OS kernels like simple applications* by Stéphane Duverger and Anaïs Gantet at [THCon19](https://thcon.party/): [Slides](https://github.com/airbus-seclab/airbus-seclab.github.io/blob/master/GUSTAVE_thcon/GUSTAVE_thcon.pdf) :gb:
 
@@ -99,7 +101,7 @@ Airbus security lab was previously known as, in chronological order:
 ### 2010
 
 * *Audit d'applications .NET complexes - le cas Microsoft OCS 2007 (.NET applications analysis the case of Microsoft OCS 2007)* by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](dotnet/SSTIC2010-Slides-Audit_dotNet_et_OCS-ruff.pdf) :fr:, [Paper](dotnet/SSTIC2010-Article-Audit_dotNet_et_OCS-ruff.pdf) :fr:
-* *[SSTIC](https://www.sstic.org/) [challenge](http://communaute.sstic.org/ChallengeSSTIC2010) best solution: [French](pdf/SSTIC_Challenge_2010-Ebalard.pdf) and [English](pdf/SSTIC_Challenge_2010-Ebalard-en.pdf)* by Arnaud Ebalard 
+* *[SSTIC](https://www.sstic.org/) [challenge](http://communaute.sstic.org/ChallengeSSTIC2010) best solution: [French](pdf/SSTIC_Challenge_2010-Ebalard.pdf) and [English](pdf/SSTIC_Challenge_2010-Ebalard-en.pdf)* by Arnaud Ebalard
 
 ### 2009
 
@@ -121,7 +123,7 @@ Airbus security lab was previously known as, in chronological order:
 
 ### 2006
 
-* *Scapy and IPv6 Networking* by Philippe Biondi and Arnaud Ebalard at [HITB](http://conference.hitb.org/hitbsecconf2006kl/): [Slides](ipv6/Scapy-IPv6_HITB06.pdf) 
+* *Scapy and IPv6 Networking* by Philippe Biondi and Arnaud Ebalard at [HITB](http://conference.hitb.org/hitbsecconf2006kl/): [Slides](ipv6/Scapy-IPv6_HITB06.pdf)
 * Skype research:
   * *Vanilla Skype* by Fabrice Desclaux and Kostya Kortchinsky at [REcon](https://recon.cx): Slides [part 1](skype/vskype-part1.pdf) and [part 2](skype/vskype-part2.pdf)
   * *Epyks: reversing Skype* by Fabrice Desclaux at [SSTIC](https://www.sstic.org/): [Slides](skype/SSTIC2006-Slides-Epyks_reversing_Skype-desclaux.pdf) :fr:, [Paper](skype/SSTIC2006-Article-Epyks_reversing_Skype-desclaux.pdf) :fr:
