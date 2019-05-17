@@ -21,7 +21,7 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Vulnerabilities
 
-* [CVE-2019-10880](https://nvd.nist.gov/vuln/detail/CVE-2019-10880): Remote command execution vulnerability in several Xerox printer models: [Xerox bulletin XRX19C](https://securitydocs.business.xerox.com/wp-content/uploads/2019/04/cert_Security_Mini_Bulletin_XRX19C_for_CQ8700_CQ8900_CQ93xx.pdf), [Xerox bulletin XRX19E](https://securitydocs.business.xerox.com/wp-content/uploads/2019/05/cert_Security_Mini_Bulletin_XRX19E.pdf).
+* [CVE-2019-10880](https://nvd.nist.gov/vuln/detail/CVE-2019-10880): Remote command execution vulnerability in several Xerox printer models: [Xerox bulletin XRX19C](https://securitydocs.business.xerox.com/wp-content/uploads/2019/04/cert_Security_Mini_Bulletin_XRX19C_for_CQ8700_CQ8900_CQ93xx.pdf), [Xerox bulletin XRX19E](https://securitydocs.business.xerox.com/wp-content/uploads/2019/05/cert_Security_Mini_Bulletin_XRX19E.pdf), [Xerox bulletin XRX19G](https://securitydocs.business.xerox.com/wp-content/uploads/2019/05/cert_Security_Mini_Bulletin_XRX19G.pdf).
 
 
 ### 2018
