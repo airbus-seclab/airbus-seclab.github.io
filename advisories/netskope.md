@@ -20,8 +20,8 @@ Netskope
 
 Affected Product Code Base:
 ---------------------------
-Netskope client v57 up to 57.2.0.219
-Netskope client v60 up to 60.2.0.214
+* Netskope client v57 up to 57.2.0.219
+* Netskope client v60 up to 60.2.0.214
 
 
 Affected Component:
@@ -47,10 +47,10 @@ a local network socket and trigger an command injection.
 
 Reference:
 ----------
-https://www.netskope.com/
-https://www.netskope.com/vulnerability-disclosure-policy
-https://support.netskope.com/hc/article_attachments/360033003553/Sprint_62_Release_Notes.pdf
-https://support.netskope.com/hc/en-us/articles/360014589894-Netskope-Client
+* https://www.netskope.com/
+* https://www.netskope.com/vulnerability-disclosure-policy
+* https://support.netskope.com/hc/article_attachments/360033003553/Sprint_62_Release_Notes.pdf
+* https://support.netskope.com/hc/en-us/articles/360014589894-Netskope-Client
 
 
 Discoverer:
@@ -80,8 +80,8 @@ Netskope
 
 Affected Product Code Base:
 ---------------------------
-Netskope client v57 up to 57.2.0.219
-Netskope client v60 up to 60.2.0.214
+* Netskope client v57 up to 57.2.0.219
+* Netskope client v60 up to 60.2.0.214
 
 
 Affected Component:
@@ -107,10 +107,10 @@ a local network socket and trigger an command injection.
 
 Reference:
 ----------
-https://www.netskope.com/
-https://www.netskope.com/vulnerability-disclosure-policy
-https://support.netskope.com/hc/article_attachments/360033003553/Sprint_62_Release_Notes.pdf
-https://support.netskope.com/hc/en-us/articles/360014589894-Netskope-Client
+* https://www.netskope.com/
+* https://www.netskope.com/vulnerability-disclosure-policy
+* https://support.netskope.com/hc/article_attachments/360033003553/Sprint_62_Release_Notes.pdf
+* https://support.netskope.com/hc/en-us/articles/360014589894-Netskope-Client
 
 
 Discoverer:
