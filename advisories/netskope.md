@@ -20,8 +20,8 @@ Netskope
 
 Affected Product Code Base:
 ---------------------------
-* Netskope client v57 up to 57.2.0.219
-* Netskope client v60 up to 60.2.0.214
+* Netskope client v57 before 57.2.0.219
+* Netskope client v60 before 60.2.0.214
 
 
 Affected Component:
@@ -80,8 +80,8 @@ Netskope
 
 Affected Product Code Base:
 ---------------------------
-* Netskope client v57 up to 57.2.0.219
-* Netskope client v60 up to 60.2.0.214
+* Netskope client v57 before 57.2.0.219
+* Netskope client v60 before 60.2.0.214
 
 
 Affected Component:
