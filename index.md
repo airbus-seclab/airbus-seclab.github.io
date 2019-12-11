@@ -32,7 +32,7 @@ Airbus security lab was previously known as, in chronological order:
 * [CVE-2019-10882](advisories/netskope.md): Memory corruption vulnerability in Netskope client
 
 * [CVE-2019-6171](https://nvd.nist.gov/vuln/detail/CVE-2019-6171): ThinkPad embedded controller update vulnerability, Lenovo Security Advisory [LEN-27764](https://support.lenovo.com/us/en/product_security/len-27764)
-* [CVE-2019-19518](https://nvd.nist.gov/vuln/detail/CVE-2019-19518)/[CA20191210-01](https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20191210-01-security-notice-for-ca-automic-sysload.html): Unauthenticated remote command exec and arbitrary file access on CA Autonomic Sysload.
+* [CVE-2019-19518](https://nvd.nist.gov/vuln/detail/CVE-2019-19518): Unauthenticated remote command exec and arbitrary file access on CA Autonomic Sysload. Broadcom/CA advisory [CA20191210-01](https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20191210-01-security-notice-for-ca-automic-sysload.html)
 
 
 ### 2018
