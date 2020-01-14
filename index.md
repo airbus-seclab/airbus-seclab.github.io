@@ -33,6 +33,7 @@ Airbus security lab was previously known as, in chronological order:
 
 * [CVE-2019-6171](https://nvd.nist.gov/vuln/detail/CVE-2019-6171): ThinkPad embedded controller update vulnerability, Lenovo Security Advisory [LEN-27764](https://support.lenovo.com/us/en/product_security/len-27764)
 * [CVE-2019-19518](https://nvd.nist.gov/vuln/detail/CVE-2019-19518): Unauthenticated remote command exec and arbitrary file access on CA Autonomic Sysload. Broadcom/CA advisory [CA20191210-01](https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20191210-01-security-notice-for-ca-automic-sysload.html)
+* [CVE-2019-18337](https://nvd.nist.gov/vuln/detail/CVE-2019-18337), [CVE-2019-18338](https://nvd.nist.gov/vuln/detail/CVE-2019-18338), [CVE-2019-18339](https://nvd.nist.gov/vuln/detail/CVE-2019-18339), [CVE-2019-18340](https://nvd.nist.gov/vuln/detail/CVE-2019-18340): Multiple vulnerabilities (auth bypass, path traversal and info disclosure) in Siemens SiNVR Video Management Solution. Advisory [SSA-761617](https://cert-portal.siemens.com/productcert/pdf/ssa-761617.pdf).
 
 
 ### 2018
