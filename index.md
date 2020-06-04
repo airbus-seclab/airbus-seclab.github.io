@@ -8,6 +8,14 @@ Airbus security lab was previously known as, in chronological order:
 - EADS Innovation Works (IW) security lab
 - Airbus Group Innovations security lab
 
+### 2020
+
+
+#### Publications
+
+* *Android_Emuroot: Outils de rooting d'un émulateur Android Google API PlayStore* by Anaïs Gantet and Mouad Abouhali at [SSTIC](https://www.sstic.org): [Slides](android_emuroot/sstic2020-emuroot_slides.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/android_emuroot_outils_de_rooting_dun_mulateur_android_google_api_playstore.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
+
+
 ### 2019
 
 
