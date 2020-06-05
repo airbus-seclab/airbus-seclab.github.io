@@ -13,8 +13,8 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
-* *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf), [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4)
-* *Android_Emuroot: Outils de rooting d'un émulateur Android Google API PlayStore* by Anaïs Gantet and Mouad Abouhali at [SSTIC](https://www.sstic.org): [Slides](android_emuroot/sstic2020-emuroot_slides.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/android_emuroot_outils_de_rooting_dun_mulateur_android_google_api_playstore.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
+* *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4) :fr:
+* *Android_Emuroot: Outils de rooting d'un émulateur Android Google API PlayStore* by Anaïs Gantet and Mouad Abouhali at [SSTIC](https://www.sstic.org): [Slides](android_emuroot/sstic2020-emuroot_slides.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/android_emuroot_outils_de_rooting_dun_mulateur_android_google_api_playstore.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot) :fr:
 
 
 ### 2019
@@ -52,12 +52,12 @@ Airbus security lab was previously known as, in chronological order:
 
 * *Turning your BMC into a revolving door* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [ZeroNights](https://2018.zeronights.ru/en/): [Slides](ilo/ZERONIGHTS2018-Slides-EN-Turning_your_BMC_into_a_revolving_door-perigaud-gazet-czarny.pdf) :gb:
 
-* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](android_emuroot/emuroot_slides.pdf), [Demo](android_emuroot/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
+* *Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root* by Anaïs Gantet at [Blackhoodie18](https://www.blackhoodie.re): [Slides](android_emuroot/emuroot_slides.pdf) :gb:, [Demo](android_emuroot/emuroot_demo.mp4), [GitHub](https://github.com/airbus-seclab/android_emuroot)
 
-* *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/backdooring_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
+* *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/backdooring_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :gb:, [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
 
-* *Subverting your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [RECON](https://recon.cx/2018/brussels/talks/subvert_server_bmc.html) (Brussels): [Slides](ilo/RECONBRX2018-Slides-Subverting_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf), [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
+* *Subverting your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [RECON](https://recon.cx/2018/brussels/talks/subvert_server_bmc.html) (Brussels): [Slides](ilo/RECONBRX2018-Slides-Subverting_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
 
 
@@ -66,14 +66,14 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
-* *An analysis of the Warbird virtual-machine protection for the `CI!g_pStore`* by Alexandre Gazet: [Post](https://github.com/airbus-seclab/warbirdvm/blob/master/README.rst), [GitHub](https://github.com/airbus-seclab/warbirdvm/)
-* *PowerSAP: PowerShell tool to assess SAP security* by Joffrey Czarny at [Troopers](https://www.troopers.de/troopers17/talks/768-holy-crap-i-need-to-pentest-sap-from-citrix/), [Black Hat](https://www.blackhat.com/us-17/arsenal/schedule/#powersap-powershell-tool-to-assess-sap-security-8086) (USA and Europe), and [UniverShell](http://www.univershell.net): [Slides](powersap/univershell-17-powersap-czarny.pdf), [GitHub](https://github.com/airbus-seclab/powersap)
+* *An analysis of the Warbird virtual-machine protection for the `CI!g_pStore`* by Alexandre Gazet: [Post](https://github.com/airbus-seclab/warbirdvm/blob/master/README.rst) :gb:, [GitHub](https://github.com/airbus-seclab/warbirdvm/)
+* *PowerSAP: PowerShell tool to assess SAP security* by Joffrey Czarny at [Troopers](https://www.troopers.de/troopers17/talks/768-holy-crap-i-need-to-pentest-sap-from-citrix/), [Black Hat](https://www.blackhat.com/us-17/arsenal/schedule/#powersap-powershell-tool-to-assess-sap-security-8086) (USA and Europe), and [UniverShell](http://www.univershell.net): [Slides](powersap/univershell-17-powersap-czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/powersap)
 * *BinCAT: purrfecting binary static analysis,* by Philippe Biondi, Xavier Mehrenberger, Raphaël Rigo and Sarah Zennou:
-    * [REcon](https://recon.cx/2017/montreal/): [Slides](bincat/RECON-MTL-2017-bincat-biondi_rigo_zennou_mehrenberger.pdf), [GitHub](https://github.com/airbus-seclab/bincat).
-    * [SSTIC](https://www.sstic.org): [Slides](bincat/SSTIC2017-Slides-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf) :fr:, [Paper](bincat/SSTIC2017-Article-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf), [GitHub](https://github.com/airbus-seclab/bincat).
+    * [REcon](https://recon.cx/2017/montreal/): [Slides](bincat/RECON-MTL-2017-bincat-biondi_rigo_zennou_mehrenberger.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/bincat).
+    * [SSTIC](https://www.sstic.org): [Slides](bincat/SSTIC2017-Slides-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf) :fr:, [Paper](bincat/SSTIC2017-Article-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/bincat).
 * *CrashOS* by Anaïs Gantet:
     * *CrashOS: Recherche de vulnérabilités système dans les hyperviseurs* at [SSTIC](https://www.sstic.org): [Slides](crashos/SSTIC2017-Slides-crashos-gantet.pdf) :fr:, [Paper](crashos/SSTIC2017-Article-crashos-gantet.pdf) :fr:, [GitHub](https://github.com/airbus-seclab/crashos).
-    * *CrashOS: Hypervisor testing tool* at [ISSRE](http://www.issre.net/): [Slides](crashos/ISSRE2017-CrashOS-Gantet.pdf)
+    * *CrashOS: Hypervisor testing tool* at [ISSRE](http://www.issre.net/): [Slides](crashos/ISSRE2017-CrashOS-Gantet.pdf) :gb:
 * *`cpu_rec.py`, un outil statistique pour la reconnaissance d'architectures binaires exotiques* by Louis Granboulan:
     * [SSTIC](https://www.sstic.org): [Slides](cpurec/SSTIC2017-Slides-cpu_rec-granboulan.pdf) :fr:, [Paper](cpurec/SSTIC2017-Article-cpu_rec-granboulan.pdf) :fr:, [GitHub](https://github.com/airbus-seclab/cpu_rec).
 * *Blackbox reconstruction of SD card accesses* by Xavier Mehrenberger and Raphaël Rigo at [BeeRumP](http://www.rump.beer/): [Slides](pdf/2017-beerump-blackbox_reconstruction_of_sd_card_accesses.pdf) :fr:.
@@ -87,18 +87,18 @@ Airbus security lab was previously known as, in chronological order:
 
 ### 2016
 
-* *Dungeons and Dragons and Security* by Tiphaine Romand-Latapie at [Black Hat USA](https://www.blackhat.com/us-16/speakers/Tiphaine-Romand-Latapie.html) and [THCon'17](https://17.thcon.party/): [Slides](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security.pdf), [Paper](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security-wp.pdf)
+* *Dungeons and Dragons and Security* by Tiphaine Romand-Latapie at [Black Hat USA](https://www.blackhat.com/us-16/speakers/Tiphaine-Romand-Latapie.html) and [THCon'17](https://17.thcon.party/): [Slides](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security.pdf) :gb:, [Paper](dnd/us-16-Romand-Latapie-Dungeons-Dragons-And-Security-wp.pdf) :gb:
 * *Gunpack: un outil générique d'unpacking de malwares* by Julien Lenoir at [SSTIC](https://www.sstic.org): [Slides](gunpack/SSTIC2016-Slides-gunpack-lenoir.pdf) :fr:, [Paper](gunpack/SSTIC2016-Article-gunpack-lenoir.pdf) :fr:, [Code](https://bitbucket.org/iwseclabs/gunpack).
-* *USB Toolkit* by Benoit Camredon at [SSTIC](https://www.sstic.org): [Slides](usbq/SSTIC2016-Slides-usb_toolkit-camredon.pdf) :fr:, [Paper](usbq/SSTIC2016-Article-usb_toolkit-camredon.pdf), [GitHub (kernel)](https://github.com/airbus-seclab/usbq_core), [GitHub (user)](https://github.com/airbus-seclab/usbq_userland).
+* *USB Toolkit* by Benoit Camredon at [SSTIC](https://www.sstic.org): [Slides](usbq/SSTIC2016-Slides-usb_toolkit-camredon.pdf) :fr:, [Paper](usbq/SSTIC2016-Article-usb_toolkit-camredon.pdf) :gb:, [GitHub (kernel)](https://github.com/airbus-seclab/usbq_core), [GitHub (user)](https://github.com/airbus-seclab/usbq_userland).
 * *App vs Wild* by Stéphane Duverger at [SSTIC](https://www.sstic.org) and [THCon'17](https://17.thcon.party/): [Slides](ramooflax/SSTIC2016-Slides-app_vs_wild-duverger.pdf) :fr:, [Paper](ramooflax/SSTIC2016-Article-app_vs_wild-duverger.pdf) :fr:, [GitHub (ramooflax)](https://github.com/airbus-seclab/ramooflax).
 * *Lost your “secure” HDD PIN? We can help!* by Julien Lenoir & Raphaël Rigo:
-    * [H2HC](https://www.h2hc.com.br/h2hc/en/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf)
-    * [Ekoparty](https://ekoparty.org/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf)
+    * [H2HC](https://www.h2hc.com.br/h2hc/en/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf) :gb:
+    * [Ekoparty](https://ekoparty.org/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf) :gb:
 
 ### 2015
-* *Failure is not an option (Keynote)* by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf), [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
+* *Failure is not an option (Keynote)* by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf) :gb:, [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
 * *A peek under the Blue Coat* by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf), [video](https://www.youtube.com/watch?v=KMbWS2-KK9M)
-* *Implementing Your Own Generic Unpacker* by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf), [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
+* *Implementing Your Own Generic Unpacker* by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf) :gb:, [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * *REbus: a communication bus for security tools interactions* by Philippe Biondi, Sarah Zennou, Xavier Mehrenberger at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) :fr:
 * *Active Directory security analysis with BTA tool* by Joffrey Czarny and Philippe Biondi:
   * Presented at [Hack.lu 2015](http://2015.hack.lu/talks/), [BlackHat USA Arsenal](https://www.blackhat.com/us-15/arsenal.html#active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis)
