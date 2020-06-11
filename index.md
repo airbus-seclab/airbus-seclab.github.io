@@ -16,6 +16,10 @@ Airbus security lab was previously known as, in chronological order:
 * *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4) :fr:
 * *Android_Emuroot: Outils de rooting d'un émulateur Android Google API PlayStore* by Anaïs Gantet and Mouad Abouhali at [SSTIC](https://www.sstic.org): [Slides](android_emuroot/sstic2020-emuroot_slides.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/android_emuroot_outils_de_rooting_dun_mulateur_android_google_api_playstore.mp4) :fr:, [GitHub](https://github.com/airbus-seclab/android_emuroot)
 
+#### Vulnerabilities
+
+* Xerox bulletin [XRX20I](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf)
+* Xerox bulletin [XRX20G](https://securitydocs.business.xerox.com/wp-content/uploads/2020/03/cert_Security_Mini_Bulletin_XRX20G_for_ALB80xx-C80xx.pdf)
 
 ### 2019
 
