@@ -18,8 +18,8 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Vulnerabilities
 
-* Xerox bulletin [XRX20I](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf)
 * Xerox bulletin [XRX20G](https://securitydocs.business.xerox.com/wp-content/uploads/2020/03/cert_Security_Mini_Bulletin_XRX20G_for_ALB80xx-C80xx.pdf)
+* Xerox bulletin [XRX20I](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf)
 * Xerox bulletin [XRX20K](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20K-1.pdf)
 * Xerox bulletin [XRX20L](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey.pdf)
 * Xerox bulletin [XRX20M](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20M_for_WC75xx.pdf)
