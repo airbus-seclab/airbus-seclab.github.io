@@ -24,6 +24,7 @@ Airbus security lab was previously known as, in chronological order:
 * Xerox bulletin [XRX20L](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey.pdf)
 * Xerox bulletin [XRX20M](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20M_for_WC75xx.pdf)
 * Xerox bulletin [XRX20R](https://security.business.xerox.com/wp-content/uploads/2020/09/cert_Security_Mini_Bulletin_XRX20R_for_ALB80xx-C80xx-1.pdf)
+* Xerox bulletin [XRX20V](https://securitydocs.business.xerox.com/wp-content/uploads/2020/11/cert_Security_Mini_Bulletin_XRX20V_for_ConnectKey.pdf)
 
 ### 2019
 
