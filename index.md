@@ -18,13 +18,9 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Vulnerabilities
 
-* Xerox bulletin [XRX20G](https://securitydocs.business.xerox.com/wp-content/uploads/2020/03/cert_Security_Mini_Bulletin_XRX20G_for_ALB80xx-C80xx.pdf)
-* Xerox bulletin [XRX20I](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf)
-* Xerox bulletin [XRX20K](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20K-1.pdf)
-* Xerox bulletin [XRX20L](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey.pdf)
-* Xerox bulletin [XRX20M](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20M_for_WC75xx.pdf)
-* Xerox bulletin [XRX20R](https://security.business.xerox.com/wp-content/uploads/2020/09/cert_Security_Mini_Bulletin_XRX20R_for_ALB80xx-C80xx-1.pdf)
-* Xerox bulletin [XRX20V](https://securitydocs.business.xerox.com/wp-content/uploads/2020/11/cert_Security_Mini_Bulletin_XRX20V_for_ConnectKey.pdf)
+* Backdoor accounts, password encryption, remote command execution, and SQL injection on Xerox AltaLink printers: Xerox bulletin [XRX20G](https://securitydocs.business.xerox.com/wp-content/uploads/2020/03/cert_Security_Mini_Bulletin_XRX20G_for_ALB80xx-C80xx.pdf), [XRX20I](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf), [XRX20R](https://security.business.xerox.com/wp-content/uploads/2020/09/cert_Security_Mini_Bulletin_XRX20R_for_ALB80xx-C80xx-1.pdf).
+* Remote command execution on Xerox Phaser, VersaLink and WorkCentre printers: Xerox bulletin [XRX20K](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/Security_Mini_Bulletin_XRX20K-1.pdf).
+* Backdoor accounts, remote command execution, password encryption, buffer overflow, and arbitrary file read / delete on Xerox WorkCentre printers: Xerox bulletin [XRX20L](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey.pdf), [XRX20M](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20M_for_WC75xx.pdf), [XRX20V](https://securitydocs.business.xerox.com/wp-content/uploads/2020/11/cert_Security_Mini_Bulletin_XRX20V_for_ConnectKey.pdf).
 
 ### 2019
 
