@@ -27,6 +27,7 @@ Airbus security lab was previously known as, in chronological order:
 
 #### Publications
 
+* *Tendances et contraintes de l’automatisation du fuzzing d’OS embarqué* by Stéphane Duverger at [GDR Sécurité](https://gdr-securite.irisa.fr/wp-content/uploads/SDuverger-GustaveFuzzing.pdf) :fr:
 * *Breaking Through Another Side: Bypassing Firmware Security Boundaries from Embedded Controller* by Alex Matrosov (NVIDIA) and Alexandre Gazet at [Black Hat USA](https://www.blackhat.com/us-19/briefings/schedule/index.html#breaking-through-another-side-bypassing-firmware-security-boundaries-from-embedded-controller-15902): [Slides](embedded_controller/BH2019-Slides-Breaking_Through_Another_Side_Bypassing_Firmware_Security_Boundaries_from_Embedded_Controller-matrosov-gazet.pdf) :gb:
 * *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at [SSTIC](https://www.sstic.org): [Slides](GUSTAVE_SSTIC/GUSTAVE_SSTIC_slides.pdf) :fr: [Paper](GUSTAVE_SSTIC/GUSTAVE_SSTIC_paper.pdf) :fr:, [GitHub](https://github.com/airbus-seclab/gustave), [Video](https://static.sstic.org/videos2019/1080p/SSTIC_2019-06-06_P05.mp4) :fr:
 
