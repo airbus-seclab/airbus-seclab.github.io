@@ -11,6 +11,13 @@ Airbus security lab was previously known as, in chronological order:
 
 Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
+### 2021
+
+#### Vulnerabilities
+
+* Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
+* Xerox WorkCentre: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf)
+
 ### 2020
 
 
