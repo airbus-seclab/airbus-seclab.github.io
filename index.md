@@ -16,7 +16,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 #### Vulnerabilities
 
 * Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
-* Xerox WorkCentre: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf)
+* Xerox WorkCentre, ColorQube: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf), [XRX21G](https://security.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21G_for_CQ8700-8900-93xx.pdf)
 
 ### 2020
 
