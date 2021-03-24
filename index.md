@@ -110,6 +110,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * *Lost your “secure” HDD PIN? We can help!* by Julien Lenoir & Raphaël Rigo:
     * [H2HC](https://www.h2hc.com.br/h2hc/en/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf) :gb:
     * [Ekoparty](https://ekoparty.org/), [Slides](hdd/2016-Lenoir_Rigo-HDD_PIN.pdf) :gb:
+* *Secrets in Soft Token: A security study of HID Global Soft Token* by Mouad Abouhali at [Hack.lu](http://2016.hack.lu/talks/#hidden-secrets-in-soft-token-a-security-study-of-hid-global-soft-token): [Slides](HidSoftToken/HID_Soft_Token_HackLu2016_Mouad_Abouhali.pdf) :gb:
 
 ### 2015
 * *Failure is not an option (Keynote)* by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf) :gb:, [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
