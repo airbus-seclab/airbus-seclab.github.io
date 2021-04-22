@@ -14,7 +14,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 ### 2021
 
 #### Publications
-* *Attacking Xerox multi function printers* by Raphaël Rigo [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf)
+* *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf)
 
 
 #### Vulnerabilities
@@ -27,7 +27,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 #### Publications
 
-* *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4) :fr:
+* *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger at [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4) :fr:
 * *Android_Emuroot: Outils de rooting d'un émulateur Android Google API PlayStore* by Anaïs Gantet and Mouad Abouhali at [SSTIC](https://www.sstic.org): [Slides](android_emuroot/sstic2020-emuroot_slides.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/android_emuroot_outils_de_rooting_dun_mulateur_android_google_api_playstore.mp4) :fr:, [GitHub](https://github.com/airbus-seclab/android_emuroot)
 
 #### Vulnerabilities
