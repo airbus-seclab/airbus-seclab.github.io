@@ -13,6 +13,10 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 ### 2021
 
+#### Publications
+* *Attacking Xerox multi function printers* by Raphaël Rigo [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf)
+
+
 #### Vulnerabilities
 
 * Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
