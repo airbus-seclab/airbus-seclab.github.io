@@ -16,6 +16,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 #### Publications
 * *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf), [Video](https://vimeo.com/showcase/8085537/video/539693997)
 
+#### Articles
+
+* A blog post series on QEMU Internals by Stéphane Duverger: [Blog](https://airbus-seclab.github.io/qemu_blog/)
 
 #### Vulnerabilities
 
