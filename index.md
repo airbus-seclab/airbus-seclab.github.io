@@ -15,6 +15,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 #### Publications
 * *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf), [Video](https://vimeo.com/showcase/8085537/video/539693997)
+* *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at DMU Cyber Week: [Slides](GUSTAVE_dmu/Gustave_DMU_cyber_week_03_2021.pdf)
 
 #### Articles
 
