@@ -16,7 +16,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 #### Publications
 * *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf), [Video](https://vimeo.com/showcase/8085537/video/539693997)
 * *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at DMU Cyber Week: [Slides](GUSTAVE_dmu/Gustave_DMU_cyber_week_03_2021.pdf)
-* *HPE iLO 5 security -- Go home cryptoprocessor, you're drunk!* by Alexandre Gazet (Airbus), Fabien Perigaud (Synacktiv) and Joffrey Czarny at [SSTIC](https://www.sstic.org/): [Slides](ilo/SSTIC2021-Slides-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :fr:, [Article](ilo/SSTIC2021-Article-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :gb:, [Video](https://static.sstic.org/videos2021/1080p/hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk.mp4)
+* *HPE iLO 5 security -- Go home cryptoprocessor, you're drunk!* by Alexandre Gazet (Airbus), Fabien Perigaud (Synacktiv) and Joffrey Czarny at [SSTIC](https://www.sstic.org/): [Slides](ilo/SSTIC2021-Slides-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :fr:, [Article](ilo/SSTIC2021-Article-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :gb:, [Video](https://static.sstic.org/videos2021/1080p/hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk.mp4) :fr:
 
 #### Articles
 
