@@ -22,11 +22,17 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 #### Articles
 
 * A blog post series on QEMU Internals by Stéphane Duverger: [Blog](https://airbus-seclab.github.io/qemu_blog/)
+* Getting the maximum of your C compiler, for security: [Page](https://airbus-seclab.github.io/c-compiler-security/)
 
 #### Vulnerabilities
 
 * Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
 * Xerox WorkCentre, ColorQube: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf), [XRX21G](https://security.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21G_for_CQ8700-8900-93xx.pdf)
+
+#### Tools
+
+* [GEA1_break](https://github.com/airbus-seclab/GEA1_break): Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021)
+* [BinCAT](https://github.com/airbus-seclab/bincat/releases/tag/v1.2): v1.2 released
 
 ### 2020
 
@@ -137,6 +143,11 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 ### 2014
 
 * *Active Directory security analysis with BTA tool* by Joffrey Czarny and Philippe Biondi at [SSTIC 2014](https://www.sstic.org/2014/news/)
+
+#### Articles
+
+* *Analyse de malware à la rescousse du CSIRT : de la rétro-conception aux IOC* by Mouad Abouhali in MISC Magazine HS 10 :fr:, [Article](https://connect.ed-diamond.com/MISC/mischs-010/analyse-de-malware-a-la-rescousse-du-csirt-de-la-retro-conception-aux-ioc)
+* *Contrôler la sécurité des objets de l’Active Directory avec BTA* by Joffrey Czarny in MISC Magazine HS 10 :fr:, [Article](https://connect.ed-diamond.com/MISC/mischs-010/controler-la-securite-des-objets-de-l-active-directory-avec-bta)
 
 ### 2012
 
