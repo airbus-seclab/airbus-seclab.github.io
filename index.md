@@ -11,6 +11,14 @@ Airbus security lab was previously known as, in chronological order:
 
 Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
+### 2022
+
+#### Vulnerabilities
+
+* BMC Truesight ServerAutomation (RSCD) local privilege escalation: [BMC advisory](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html)
+* BMC Truesight ServerAutomation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisory](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html)
+
+
 ### 2021
 
 #### Publications
