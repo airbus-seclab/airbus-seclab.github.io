@@ -15,9 +15,8 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 #### Vulnerabilities
 
-* BMC Truesight ServerAutomation (RSCD) local privilege escalation: [BMC advisory](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html)
-* BMC Truesight ServerAutomation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisory](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html)
-
+* BMC Truesight Server Automation (RSCD) local privilege escalation: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
+* BMC Truesight Server Automation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
 
 ### 2021
 
