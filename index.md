@@ -17,6 +17,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * BMC Truesight Server Automation (RSCD) local privilege escalation: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
 * BMC Truesight Server Automation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
+* Multiples vulnerabilities in Netbackup Primary/Media Server: [VTS22-004](https://www.veritas.com/content/support/en_US/security/VTS22-004)
+* Multiples vulnerabilities in NetBackup Client: [VTS22-008](https://www.veritas.com/content/support/en_US/security/VTS22-008)
+* Multiples vulnerabilities in NetBackup OpsCenter: [VTS22-009](https://www.veritas.com/content/support/en_US/security/VTS22-009)
 
 ### 2021
 
