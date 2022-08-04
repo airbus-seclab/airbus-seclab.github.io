@@ -29,8 +29,8 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 [CVE-2022-36993](https://nvd.nist.gov/vuln/detail/CVE-2022-36993), 
 [CVE-2022-36994](https://nvd.nist.gov/vuln/detail/CVE-2022-36994), 
 [CVE-2022-36995](https://nvd.nist.gov/vuln/detail/CVE-2022-36995), 
-[CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997), 
 [CVE-2022-36996](https://nvd.nist.gov/vuln/detail/CVE-2022-36996),
+[CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997), 
 [CVE-2022-36998](https://nvd.nist.gov/vuln/detail/CVE-2022-36998), 
 [CVE-2022-36999](https://nvd.nist.gov/vuln/detail/CVE-2022-36999), 
 [CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000))
