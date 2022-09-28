@@ -33,9 +33,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 [CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997), 
 [CVE-2022-36998](https://nvd.nist.gov/vuln/detail/CVE-2022-36998), 
 [CVE-2022-36999](https://nvd.nist.gov/vuln/detail/CVE-2022-36999), 
-[CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000))
+[CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000)), [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) (CVE-TBA),  [VTS22-011](https://www.veritas.com/content/support/en_US/security/VTS22-011) (CVE-TBA),  [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) (CVE-TBA),  [VTS22-013](https://www.veritas.com/content/support/en_US/security/VTS22-013) (CVE-TBA)
 * NetBackup Client: [VTS22-008](https://www.veritas.com/content/support/en_US/security/VTS22-008) ([CVE-2022-36955](https://nvd.nist.gov/vuln/detail/CVE-2022-36955), 
-[CVE-2022-36956](https://nvd.nist.gov/vuln/detail/CVE-2022-36956))
+[CVE-2022-36956](https://nvd.nist.gov/vuln/detail/CVE-2022-36956)),  [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) (CVE-TBA),  [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) (CVE-TBA)
 * NetBackup OpsCenter: [VTS22-009](https://www.veritas.com/content/support/en_US/security/VTS22-009) ([CVE-2022-36948](https://nvd.nist.gov/vuln/detail/CVE-2022-36948), 
 [CVE-2022-36949](https://nvd.nist.gov/vuln/detail/CVE-2022-36949), 
 [CVE-2022-36950](https://nvd.nist.gov/vuln/detail/CVE-2022-36950), 
