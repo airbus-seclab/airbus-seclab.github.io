@@ -13,6 +13,10 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 ### 2022
 
+#### Publications
+
+* *The unavoidable pain of backups: security deep-dive into the internals of NetBackup* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [Hexacon](https://www.hexacon.fr/conference/speakers/#unavoidable_pain): [Slides](netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf) :gb:
+
 #### Vulnerabilities
 
 * BMC Truesight Server Automation (RSCD) local privilege escalation: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
