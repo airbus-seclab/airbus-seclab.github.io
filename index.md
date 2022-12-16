@@ -21,9 +21,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * BMC Truesight Server Automation (RSCD) local privilege escalation: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
 * BMC Truesight Server Automation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
-* Netbackup Primary/Media Server: [VTS22-004](https://www.veritas.com/content/support/en_US/security/VTS22-004) ([CVE-2022-36984](https://nvd.nist.gov/vuln/detail/CVE-2022-36984), 
+* Netbackup Primary/Media Server:
+  * [VTS22-004](https://www.veritas.com/content/support/en_US/security/VTS22-004) ([CVE-2022-36984](https://nvd.nist.gov/vuln/detail/CVE-2022-36984), 
 [CVE-2022-36985](https://nvd.nist.gov/vuln/detail/CVE-2022-36985), 
-[CVE-2022-36986](https://nvd.nist.gov/vuln/detail/CVE-2022-36986), 
 [CVE-2022-36987](https://nvd.nist.gov/vuln/detail/CVE-2022-36987), 
 [CVE-2022-36988](https://nvd.nist.gov/vuln/detail/CVE-2022-36988), 
 [CVE-2022-36989](https://nvd.nist.gov/vuln/detail/CVE-2022-36989), 
@@ -37,14 +37,19 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 [CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997), 
 [CVE-2022-36998](https://nvd.nist.gov/vuln/detail/CVE-2022-36998), 
 [CVE-2022-36999](https://nvd.nist.gov/vuln/detail/CVE-2022-36999), 
-[CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000)), [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) (CVE-TBA),  [VTS22-011](https://www.veritas.com/content/support/en_US/security/VTS22-011) (CVE-TBA),  [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) (CVE-TBA),  [VTS22-013](https://www.veritas.com/content/support/en_US/security/VTS22-013) (CVE-TBA)
-* NetBackup Client: [VTS22-008](https://www.veritas.com/content/support/en_US/security/VTS22-008) ([CVE-2022-36955](https://nvd.nist.gov/vuln/detail/CVE-2022-36955), 
-[CVE-2022-36956](https://nvd.nist.gov/vuln/detail/CVE-2022-36956)),  [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) (CVE-TBA),  [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) (CVE-TBA)
+[CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000))
+  * [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) ([CVE-2022-42306](https://nvd.nist.gov/vuln/detail/CVE-2022-42306), [CVE-2022-42308](https://nvd.nist.gov/vuln/detail/CVE-2022-42308))
+  * [VTS22-011](https://www.veritas.com/content/support/en_US/security/VTS22-011) ([CVE-2022-42302](https://nvd.nist.gov/vuln/detail/CVE-2022-42302), [CVE-2022-42303](https://nvd.nist.gov/vuln/detail/CVE-2022-42303), [CVE-2022-42304](https://nvd.nist.gov/vuln/detail/CVE-2022-42304))
+  * [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) ([CVE-2022-42299](https://nvd.nist.gov/vuln/detail/CVE-2022-42299), [CVE-2022-42305](https://nvd.nist.gov/vuln/detail/CVE-2022-42305), [CVE-2022-42307](https://nvd.nist.gov/vuln/detail/CVE-2022-42307))
+  * [VTS22-013](https://www.veritas.com/content/support/en_US/security/VTS22-013) ([CVE-2022-42300](https://nvd.nist.gov/vuln/detail/CVE-2022-42300), [CVE-2022-42301](https://nvd.nist.gov/vuln/detail/CVE-2022-42301))
+* NetBackup Client:
+  * [VTS22-008](https://www.veritas.com/content/support/en_US/security/VTS22-008) ([CVE-2022-36955](https://nvd.nist.gov/vuln/detail/CVE-2022-36955))
+  * [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) ([CVE-2022-42306](https://nvd.nist.gov/vuln/detail/CVE-2022-42306), [CVE-2022-42308](https://nvd.nist.gov/vuln/detail/CVE-2022-42308))
+  * [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) ([CVE-2022-42299](https://nvd.nist.gov/vuln/detail/CVE-2022-42299), [CVE-2022-42305](https://nvd.nist.gov/vuln/detail/CVE-2022-42305), [CVE-2022-42307](https://nvd.nist.gov/vuln/detail/CVE-2022-42307))
 * NetBackup OpsCenter: [VTS22-009](https://www.veritas.com/content/support/en_US/security/VTS22-009) ([CVE-2022-36948](https://nvd.nist.gov/vuln/detail/CVE-2022-36948), 
 [CVE-2022-36949](https://nvd.nist.gov/vuln/detail/CVE-2022-36949), 
 [CVE-2022-36950](https://nvd.nist.gov/vuln/detail/CVE-2022-36950), 
 [CVE-2022-36951](https://nvd.nist.gov/vuln/detail/CVE-2022-36951), 
-[CVE-2022-36952](https://nvd.nist.gov/vuln/detail/CVE-2022-36952), 
 [CVE-2022-36953](https://nvd.nist.gov/vuln/detail/CVE-2022-36953), 
 [CVE-2022-36954](https://nvd.nist.gov/vuln/detail/CVE-2022-36954), 
 [CVE-2022-23457](https://nvd.nist.gov/vuln/detail/CVE-2022-23457))
