@@ -15,7 +15,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 #### Publications
 
-* *The unavoidable pain of backups: security deep-dive into the internals of NetBackup* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [Hexacon](https://www.hexacon.fr/conference/speakers/#unavoidable_pain): Slides [PDF](netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf) [ODP](netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.odp) :gb:
+* *The unavoidable pain of backups: security deep-dive into the internals of NetBackup* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [Hexacon](https://www.hexacon.fr/conference/speakers/#unavoidable_pain): Slides ([PDF](netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf), [ODP](netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.odp)) :gb:, [Video](https://www.youtube.com/watch?v=DFH06-iQUjw) :gb:
 
 #### Vulnerabilities
 
