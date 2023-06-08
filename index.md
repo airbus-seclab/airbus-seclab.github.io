@@ -14,7 +14,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 ### 2023
 
 #### Publications
-* *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup) : [Slides](netbackup/NetBackupSSTIC2023.pdf), [video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4)
+* *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup) : [Slides](netbackup/NetBackupSSTIC2023.pdf) :fr:, [video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4) :fr:
 
 ### 2022
 
