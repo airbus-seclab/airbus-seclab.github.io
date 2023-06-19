@@ -16,6 +16,11 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 #### Publications
 * *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup) : [Slides](netbackup/NetBackupSSTIC2023.pdf) :fr:, [video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4) :fr:
 
+### Articles
+
+* [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing
+](https://airbus-seclab.github.io/AFLplusplus-blogpost/) by Jean-Romain Garnier, Anaïs Gantet
+
 ### 2022
 
 #### Publications
