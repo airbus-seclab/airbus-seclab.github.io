@@ -145,6 +145,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * *Subverting your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [RECON](https://recon.cx/2018/brussels/talks/subvert_server_bmc.html) (Brussels): [Slides](ilo/RECONBRX2018-Slides-Subverting_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
+* *Deep dive into an ICS Firewall* by Julien Lenoir, Benoît Camredon at [Black Hat USA](https://www.blackhat.com/us-18/briefings/schedule/index.html#deep-dive-into-an-ics-firewall-looking-for-the-fire-hole-10478) :gb: [Slides](tofino/BLACKHAT2018-ICS_Firewall_lenoir_camredon.pdf) :gb:
 
 
 ### 2017
