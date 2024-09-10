@@ -18,8 +18,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 #### Articles
 
-* [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing
-](https://airbus-seclab.github.io/AFLplusplus-blogpost/) by Jean-Romain Garnier, Anaïs Gantet
+* [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing](https://airbus-seclab.github.io/AFLplusplus-blogpost/) by Jean-Romain Garnier, Anaïs Gantet
 
 ### 2022
 
@@ -81,7 +80,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
 * Xerox WorkCentre, ColorQube: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf), [XRX21G](https://security.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21G_for_CQ8700-8900-93xx.pdf)
-* BMC Control-M: [Security wall of fame](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
+* BMC Control-M: [Security bulletin](https://docs.bmc.com/docs/pages/viewpage.action?pageId=1382868372), [security wall of fame](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
 
 #### Tools
 
