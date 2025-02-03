@@ -17,6 +17,13 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
 
+### 2024
+
+#### Vulnerabilities
+
+* FireEye EDR (Trellix Endpoint Security):
+  * Agent to Console XXE, zip bomb: [Trellix advisory](https://thrive.trellix.com/s/article/000014214), [CVE-2025-0617](https://nvd.nist.gov/vuln/detail/CVE-2025-0617)
+
 ### 2023
 
 #### Publications
