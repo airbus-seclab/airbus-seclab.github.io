@@ -8,8 +8,7 @@ Airbus security lab was previously known as, in chronological order:
 - EADS Innovation Works (IW) security lab
 - Airbus Group Innovations security lab
 
-
-Find all our tools on Github: <https://github.com/airbus-seclab/>.
+Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 ### 2025
 
@@ -27,6 +26,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 ### 2023
 
 #### Publications
+
 * *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup) : [Slides](netbackup/NetBackupSSTIC2023.pdf) :fr:, [video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4) :fr:
 
 #### Articles
@@ -79,6 +79,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 ### 2021
 
 #### Publications
+
 * *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf), [Video](https://vimeo.com/showcase/8085537/video/539693997)
 * *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at DMU Cyber Week: [Slides](GUSTAVE_dmu/Gustave_DMU_cyber_week_03_2021.pdf)
 * *HPE iLO 5 security -- Go home cryptoprocessor, you're drunk!* by Alexandre Gazet (Airbus), Fabien Perigaud (Synacktiv) and Joffrey Czarny at [SSTIC](https://www.sstic.org/): [Slides](ilo/SSTIC2021-Slides-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :fr:, [Article](ilo/SSTIC2021-Article-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :gb:, [Video](https://static.sstic.org/videos2021/1080p/hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk.mp4) :fr:
@@ -102,7 +103,6 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 ### 2020
 
-
 #### Publications
 
 * *Sécurité des infrastructures basées sur Kubernetes* by Xavier Mehrenberger at [SSTIC](https://www.sstic.org): [Slides](kubernetes/SSTIC2020-Slides-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Article](kubernetes/SSTIC2020-Article-securite_des_infrastructures_basees_sur_kubernetes-mehrenberger.pdf) :fr:, [Video](https://static.sstic.org/videos2020/1080p/securite_des_infrastructures_basees_sur_kubernetes.mp4) :fr:
@@ -115,7 +115,6 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * Backdoor accounts, remote command execution, password encryption, buffer overflow, and arbitrary file read / delete on Xerox WorkCentre printers: Xerox bulletins [XRX20L](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey.pdf), [XRX20M](https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20M_for_WC75xx.pdf), [XRX20V](https://securitydocs.business.xerox.com/wp-content/uploads/2020/11/cert_Security_Mini_Bulletin_XRX20V_for_ConnectKey.pdf).
 
 ### 2019
-
 
 #### Publications
 
@@ -142,9 +141,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * [CVE-2019-19518](https://nvd.nist.gov/vuln/detail/CVE-2019-19518): Unauthenticated remote command exec and arbitrary file access on CA Autonomic Sysload. Broadcom/CA advisory [CA20191210-01](https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20191210-01-security-notice-for-ca-automic-sysload.html)
 * [CVE-2019-18337](https://nvd.nist.gov/vuln/detail/CVE-2019-18337), [CVE-2019-18338](https://nvd.nist.gov/vuln/detail/CVE-2019-18338), [CVE-2019-18339](https://nvd.nist.gov/vuln/detail/CVE-2019-18339), [CVE-2019-18340](https://nvd.nist.gov/vuln/detail/CVE-2019-18340): Multiple vulnerabilities (auth bypasses, path traversal and obfuscated password storage) in Siemens SiNVR Video Management Solution. Advisory [SSA-761617](https://cert-portal.siemens.com/productcert/pdf/ssa-761617.pdf).
 
-
 ### 2018
-
 
 #### Publications
 
@@ -154,14 +151,11 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
 * *Backdooring your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [SSTIC](https://www.sstic.org/2018/presentation/backdooring_your_server_through_its_bmc_the_hpe_ilo4_case/): [Slides](ilo/SSTIC2018-Slides-FR-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :fr:, [Slides](ilo/SSTIC2018-Slides-EN-Backdooring_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :gb:, [Paper](ilo/SSTIC2018-Article-subverting_your_server_through_its_bmc_the_hpe_ilo4_case-gazet_perigaud_czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
-
 * *Subverting your server through its BMC: the HPE iLO4 case* by Fabien Perigaud, Alexandre Gazet and Joffrey Czarny at [RECON](https://recon.cx/2018/brussels/talks/subvert_server_bmc.html) (Brussels): [Slides](ilo/RECONBRX2018-Slides-Subverting_your_server_through_its_BMC_the_HPE_iLO4_case-perigaud-gazet-czarny.pdf) :gb:, [GitHub](https://github.com/airbus-seclab/ilo4_toolbox).
 
 * *Deep dive into an ICS Firewall* by Julien Lenoir, Benoît Camredon at [Black Hat USA](https://www.blackhat.com/us-18/briefings/schedule/index.html#deep-dive-into-an-ics-firewall-looking-for-the-fire-hole-10478) :gb: [Slides](tofino/BLACKHAT2018-ICS_Firewall_lenoir_camredon.pdf) :gb:
 
-
 ### 2017
-
 
 #### Publications
 
@@ -196,6 +190,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * *Secrets in Soft Token: A security study of HID Global Soft Token* by Mouad Abouhali at [Hack.lu](http://2016.hack.lu/talks/#hidden-secrets-in-soft-token-a-security-study-of-hid-global-soft-token): [Slides](HidSoftToken/HID_Soft_Token_HackLu2016_Mouad_Abouhali.pdf) :gb:
 
 ### 2015
+
 * *Failure is not an option (Keynote)* by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf) :gb:, [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
 * *A peek under the Blue Coat* by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf), [video](https://www.youtube.com/watch?v=KMbWS2-KK9M)
 * *Implementing Your Own Generic Unpacker* by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf) :gb:, [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
@@ -243,6 +238,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * *Dépérimetrisation: futur de la sécurité réseau ou pis aller passager ?* by Cédric Blancher at [SSTIC](https://www.sstic.org/): [Slides](deperimetrisation/SSTIC2008-Slides-Deperimetrisation_futur_de_la_securite_reseau_ou_pis_aller_passager-blancher.pdf) :fr:, [Paper](deperimetrisation/SSTIC2008-Article-Deperimetrisation_futur_de_la_securite_reseau_ou_pis_aller_passager-blancher.pdf) :fr:
 
 ### 2007
+
 * *IPv6 routing header security* by Philippe Biondi and Arnaud Ebalard at [CanSecWest](https://cansecwest.com/): [Slides](ipv6/IPv6_RH_security-csw07.pdf)
 * *Linux 2.6 kernel exploits* by Stéphane Duverger at:
   * [SSTIC](https://www.sstic.org/): [Slides](kernsploit/SSTIC2007-Slides-Exploitation_en_espace_noyau-duverger.pdf) :fr:, [Paper](kernsploit/SSTIC2007-Article-Exploitation_en_espace_noyau-duverger.pdf) :fr:
@@ -273,6 +269,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab/>.
 * *Protocoles réseau : grandeur et décadence* by Cédric Blancher, Nicolas Fischbach and Pierre Betouin at [SSTIC](https://www.sstic.org/): [Slides](protocoles/SSTIC05-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) :fr:, [Paper](protocoles/SSTIC05-article-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) :fr:
 
 ### 2004
+
 * *About Shellcodes* by Philippe Biondi at Syscan: [Slides](pdf/shellcodes_syscan04.pdf)
 
 <!--
