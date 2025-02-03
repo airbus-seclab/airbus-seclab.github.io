@@ -11,6 +11,12 @@ Airbus security lab was previously known as, in chronological order:
 
 Find all our tools on Github: <https://github.com/airbus-seclab/>.
 
+### 2025
+
+#### Tools
+
+* [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
+
 ### 2023
 
 #### Publications
