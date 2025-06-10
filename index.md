@@ -15,6 +15,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 #### Tools
 
 * [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
+* [afl-cov-fast](https://github.com/airbus-seclab/afl-cov-fast): Tool to produce code coverage reports for AFL++ fuzzing campaigns with source code or in binary-only mode 
 
 ### 2024
 
