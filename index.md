@@ -16,6 +16,8 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 * *afl-cov-fast: code-coverage for AFL++ fuzzing campaigns* by Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/afl-cov-fast): [Slides](afl-cov-fast/afl-cov-fast-sstic-2025.pdf) :fr:, [video](https://static.sstic.org/videos2025/1080p/afl-cov-fast.mp4) :fr:
 
+* *soxy: services over Citrix, VMware Horizon and native Windows RDP* by Arnaud Fontaine, Nicolas Devillers and Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp/): [Slides](soxy/soxy-sstic-2025.pdf) :fr:, [video](https://static.sstic.org/videos2025/1080p/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp.mp4) :fr:
+
 #### Tools
 
 * [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
