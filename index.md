@@ -12,6 +12,10 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 ### 2025
 
+#### Publications
+
+* *afl-cov-fast: code-coverage for AFL++ fuzzing campaigns* by Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/afl-cov-fast): [Slides](afl-cov-fast/afl-cov-fast-sstic-2025.pdf) :fr:, [video](https://static.sstic.org/videos2025/1080p/afl-cov-fast.mp4) :fr:
+
 #### Tools
 
 * [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
