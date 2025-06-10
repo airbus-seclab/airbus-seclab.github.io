@@ -88,8 +88,8 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 #### Publications
 
-* *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf), [Video](https://vimeo.com/showcase/8085537/video/539693997)
-* *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at DMU Cyber Week: [Slides](GUSTAVE_dmu/Gustave_DMU_cyber_week_03_2021.pdf)
+* *Attacking Xerox multi function printers* by Raphaël Rigo at [INFILTRATE](https://www.infiltratecon.com/conference/briefings/attacking-xerox-multi-function-printers.html): [Slides](xerox/INFILTRATE2020-RIGO-Xerox-final.pdf) :gb:, [Video](https://vimeo.com/showcase/8085537/video/539693997) :gb:
+* *GUSTAVE: Fuzz It Like It's App* by Stéphane Duverger and Anaïs Gantet at DMU Cyber Week: [Slides](GUSTAVE_dmu/Gustave_DMU_cyber_week_03_2021.pdf) :gb:
 * *HPE iLO 5 security -- Go home cryptoprocessor, you're drunk!* by Alexandre Gazet (Airbus), Fabien Perigaud (Synacktiv) and Joffrey Czarny at [SSTIC](https://www.sstic.org/): [Slides](ilo/SSTIC2021-Slides-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :fr:, [Article](ilo/SSTIC2021-Article-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :gb:, [Video](https://static.sstic.org/videos2021/1080p/hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk.mp4) :fr:
 * *HPE iLO 5 security -- Go home cryptoprocessor, you're drunk!* by Alexandre Gazet (Airbus), Fabien Perigaud (Synacktiv) and Joffrey Czarny at [Black Hat USA](https://www.blackhat.com/us-21/briefings/schedule/#hpe-ilo5-firmware-security---go-home-cryptoprocessor-you39re-drunk-23398): [Slides](ilo/BHUSA2021-Slides-hpe_ilo_5_security_go_home_cryptoprocessor_youre_drunk-gazet_perigaud_czarny.pdf) :gb:
 
@@ -200,7 +200,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 ### 2015
 
 * *Failure is not an option (Keynote)* by Philippe Biondi at [GreHack](https://grehack.fr/2015/program#keynote): [Slides](pdf/GreHack_2015_-_Keynote_-_Failure_is_not_an_option-Biondi.pdf) :gb:, [Video](https://youtu.be/Vx1-Y7JgCEA?list=PL7_XhIpUqISnoe1hpTZrnbSYbM76WUQBF)
-* *A peek under the Blue Coat* by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf), [video](https://www.youtube.com/watch?v=KMbWS2-KK9M)
+* *A peek under the Blue Coat* by Raphaël Rigo at [Black Hat Europe](https://www.blackhat.com/eu-15/briefings.html#raphael-rigo) and [Ruxcon](http://2015.ruxcon.org.au/): [Slides](bluecoat/bheu2015-bluecoat.pdf) :gb:, [Video](https://www.youtube.com/watch?v=KMbWS2-KK9M) :gb:
 * *Implementing Your Own Generic Unpacker* by Julien Lenoir at [HITB](https://gsec.hitb.org/sg2015/): [Slides](gunpack/HITB-GSEC-SG2015-Lenoir-Gunpack.pdf) :gb:, [Video](https://www.youtube.com/watch?v=qOA3O25oIjM), [Code](https://bitbucket.org/iwseclabs/gunpack).
 * *REbus: a communication bus for security tools interactions* by Philippe Biondi, Sarah Zennou, Xavier Mehrenberger at [SSTIC](https://www.sstic.org/2015/), [Slides](rebus/SSTIC2015-Slides-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Paper](rebus/SSTIC2015-Article-rebus-biondi_zennou_mehrenberger.pdf) :fr:, [Video](http://static.sstic.org/videos2015/SSTIC_2015-06-03_P04_REBUS.mp4) :fr:
 * *Active Directory security analysis with BTA tool* by Joffrey Czarny and Philippe Biondi:
@@ -238,7 +238,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 ### 2009
 
-* *Attacking Wifi networks with traffic injection* by Cédric Blancher at SyScan: [Slides](wifi/0509_Syscan_WirelessInjection.pdf)
+* *Attacking Wifi networks with traffic injection* by Cédric Blancher at SyScan: [Slides](wifi/0509_Syscan_WirelessInjection.pdf) :gb:
 * *Pourquoi la sécurité est un échec (et comment y remédier)* by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](echec/SSTIC2009-Slides-Pourquoi_la_securite_est_un_echec-ruff.pdf) :fr:, [Paper](echec/SSTIC2009-Article-Pourquoi_la_securite_est_un_echec-ruff.pdf) :fr:
 
 ### 2008
@@ -247,38 +247,38 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 ### 2007
 
-* *IPv6 routing header security* by Philippe Biondi and Arnaud Ebalard at [CanSecWest](https://cansecwest.com/): [Slides](ipv6/IPv6_RH_security-csw07.pdf)
+* *IPv6 routing header security* by Philippe Biondi and Arnaud Ebalard at [CanSecWest](https://cansecwest.com/): [Slides](ipv6/IPv6_RH_security-csw07.pdf) :gb:
 * *Linux 2.6 kernel exploits* by Stéphane Duverger at:
   * [SSTIC](https://www.sstic.org/): [Slides](kernsploit/SSTIC2007-Slides-Exploitation_en_espace_noyau-duverger.pdf) :fr:, [Paper](kernsploit/SSTIC2007-Article-Exploitation_en_espace_noyau-duverger.pdf) :fr:
-  * Syscan: [Slides](kernsploit/kernel_exploit_syscan07.pdf)
+  * Syscan: [Slides](kernsploit/kernel_exploit_syscan07.pdf) :gb:
 * *Analyse statique par interprétation abstraite (static analysis by abstract interpretation)* by Charles Hymans and Xavier Allamigeon at [SSTIC](https://www.sstic.org/)
 * *Aircraft Onboard Systems Security* by Cédric Blancher at Bellua Cyber Security
 * *Autopsie d'une intrusion "tout en mémoire" sous Windows (Autopsy of a Windows in-memory intrusion)* by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](inmemory/SSTIC2007-Slides-Autopsie_d_une_intrusion_tout_en_memoire_sous_Windows-ruff.pdf) :fr:, [Paper](inmemory/SSTIC2007-Article-Autopsie_d_une_intrusion_tout_en_memoire_sous_Windows-ruff.pdf) :fr:
 
 ### 2006
 
-* *Scapy and IPv6 Networking* by Philippe Biondi and Arnaud Ebalard at [HITB](http://conference.hitb.org/hitbsecconf2006kl/): [Slides](ipv6/Scapy-IPv6_HITB06.pdf)
+* *Scapy and IPv6 Networking* by Philippe Biondi and Arnaud Ebalard at [HITB](http://conference.hitb.org/hitbsecconf2006kl/): [Slides](ipv6/Scapy-IPv6_HITB06.pdf) :gb:
 * Skype research:
-  * *Vanilla Skype* by Fabrice Desclaux and Kostya Kortchinsky at [REcon](https://recon.cx): Slides [part 1](skype/vskype-part1.pdf) and [part 2](skype/vskype-part2.pdf)
+  * *Vanilla Skype* by Fabrice Desclaux and Kostya Kortchinsky at [REcon](https://recon.cx): Slides :gb: [part 1](skype/vskype-part1.pdf) and [part 2](skype/vskype-part2.pdf)
   * *Epyks: reversing Skype* by Fabrice Desclaux at [SSTIC](https://www.sstic.org/): [Slides](skype/SSTIC2006-Slides-Epyks_reversing_Skype-desclaux.pdf) :fr:, [Paper](skype/SSTIC2006-Article-Epyks_reversing_Skype-desclaux.pdf) :fr:
-  * *Silver Needle in the Skype* by Philippe Biondi and Fabrice Desclaux at [Blackhat Europe](https://www.blackhat.com/html/bh-media-archives/bh-archives-2006.html#eu-06): [Slides](skype/bh-eu-06-silver_needle_in_the_skype-biondi-desclaux.pdf)
+  * *Silver Needle in the Skype* by Philippe Biondi and Fabrice Desclaux at [Blackhat Europe](https://www.blackhat.com/html/bh-media-archives/bh-archives-2006.html#eu-06): [Slides](skype/bh-eu-06-silver_needle_in_the_skype-biondi-desclaux.pdf) :gb:
 * *Playing with ptrace for fun and profit* by Nicolas Bareil at [SSTIC](https://www.sstic.org/): [Slides](ptrace/SSTIC2006-Slides-Playing_with_ptrace_for_fun_and_profit-bareil.pdf) :fr:, [Paper](ptrace/SSTIC2006-Article-Playing_with_ptrace_for_fun_and_profit-bareil.pdf) :fr:
 * *La sécurité dans Mobile IPv6 (Security of mobile IPv6)* by Arnaud Ebalard and Guillaume Valadon at [SSTIC](https://www.sstic.org/): [Slides](ipv6/SSTIC06-Ebalard_Valadon-Securite_MIPv6.pdf) :fr:, [Paper](ipv6/SSTIC06-article-Ebalard_Valadon-Securite_MIPv6.pdf) :fr:
 * *Sécurité des offres ADSL en France* by Nicolas Ruff at [SSTIC](https://www.sstic.org/): [Slides](adsl/SSTIC2006-Slides-Securite_des_offres_ADSL_en_France-ruff.pdf) :fr:, [Paper](adsl/SSTIC2006-Article-Securite_des_offres_ADSL_en_France-ruff.pdf) :fr:
 
 ### 2005
 
-* *Attacking WiFi with traffic injection* by Cédric Blancher at [Ruxcon](https://ruxcon.org.au/) ([Slides](wifi/0510_Ruxcon_WirelessInjection.pdf)), [PacSec](https://pacsec.jp/) ([Slides](wifi/0511_Pacsec_WirelessInjection_en.pdf)), SyScan ([Slides](wifi/0509_Syscan_WirelessInjection.pdf)), [REcon](https://recon.cx) ([Slides](wifi/0506_Recon_WirelessInjection.pdf))
-* *Scapy: explore the net with new eyes* by Philippe Biondi at [T2](https://t2.fi/): [Slides](scapy/scapy_T2.pdf)
-* *Network packet forgery with Scapy* by Philippe Biondi at [PacSec](https://pacsec.jp/): [Slides](scapy/scapy_pacsec05.pdf)
+* *Attacking WiFi with traffic injection* by Cédric Blancher at [Ruxcon](https://ruxcon.org.au/) ([Slides](wifi/0510_Ruxcon_WirelessInjection.pdf) :gb:), [PacSec](https://pacsec.jp/) ([Slides](wifi/0511_Pacsec_WirelessInjection_en.pdf) :gb:), SyScan ([Slides](wifi/0509_Syscan_WirelessInjection.pdf) :gb:), [REcon](https://recon.cx) ([Slides](wifi/0506_Recon_WirelessInjection.pdf) :gb:)
+* *Scapy: explore the net with new eyes* by Philippe Biondi at [T2](https://t2.fi/): [Slides](scapy/scapy_T2.pdf) :gb:
+* *Network packet forgery with Scapy* by Philippe Biondi at [PacSec](https://pacsec.jp/): [Slides](scapy/scapy_pacsec05.pdf) :gb:
 * *VoIP security* by Nicolas Bareil at [SSTIC](https://www.sstic.org/): [Slides](voip/SSTIC05-Bareil-VOIP_Projet_ILTY.pdf) :fr:, [Paper](voip/SSTIC05-article-Bareil-VOIP_Projet_ILTY.pdf) :fr:
-* *Shellforge* by Philippe Biondi at Libre Software Meeting [LSM/RMLL](https://2017.rmll.info): [Slides](pdf/shellforge_lsm2005.pdf)
+* *Shellforge* by Philippe Biondi at Libre Software Meeting [LSM/RMLL](https://2017.rmll.info): [Slides](pdf/shellforge_lsm2005.pdf) :gb:
 * *Utilisation des outils Honeypot pour la détection d’intrusion* by Philippe Biondi et Cédric Blancher at EUROSEC: [Slides](pdf/0503_Eurosec_HoneypotIDS.pdf) :fr:
 * *Protocoles réseau : grandeur et décadence* by Cédric Blancher, Nicolas Fischbach and Pierre Betouin at [SSTIC](https://www.sstic.org/): [Slides](protocoles/SSTIC05-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) :fr:, [Paper](protocoles/SSTIC05-article-Betouin_Blancher_Fischbach-Protocoles_reseau.pdf) :fr:
 
 ### 2004
 
-* *About Shellcodes* by Philippe Biondi at Syscan: [Slides](pdf/shellcodes_syscan04.pdf)
+* *About Shellcodes* by Philippe Biondi at Syscan: [Slides](pdf/shellcodes_syscan04.pdf) :gb:
 
 <!--
 [SSTIC](https://www.sstic.org/): [Slides]() :fr:, [Paper]() :fr:
