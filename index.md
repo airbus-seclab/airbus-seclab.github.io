@@ -14,9 +14,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 #### Publications
 
-* *afl-cov-fast: code-coverage for AFL++ fuzzing campaigns* by Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/afl-cov-fast): [Slides](afl-cov-fast/afl-cov-fast-sstic-2025.pdf) :fr:, [video](https://static.sstic.org/videos2025/1080p/afl-cov-fast.mp4) :fr:
+* *afl-cov-fast: code-coverage for AFL++ fuzzing campaigns* by Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/afl-cov-fast): [Slides](afl-cov-fast/afl-cov-fast-sstic-2025.pdf) :fr:, [Video](https://static.sstic.org/videos2025/1080p/afl-cov-fast.mp4) :fr:
 
-* *soxy: services over Citrix, VMware Horizon and native Windows RDP* by Arnaud Fontaine, Nicolas Devillers and Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp/): [Slides](soxy/soxy-sstic-2025.pdf) :fr:, [video](https://static.sstic.org/videos2025/1080p/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp.mp4) :fr:
+* *soxy: services over Citrix, VMware Horizon and native Windows RDP* by Arnaud Fontaine, Nicolas Devillers and Jean-Romain Garnier at [SSTIC](https://www.sstic.org/2025/presentation/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp/): [Slides](soxy/soxy-sstic-2025.pdf) :fr:, [Video](https://static.sstic.org/videos2025/1080p/soxy_a_suite_of_services_over_citrix_vmware_horizon_and_native_windows_rdp.mp4) :fr:
 
 #### Tools
 
@@ -35,7 +35,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 #### Publications
 
-* *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup) : [Slides](netbackup/NetBackupSSTIC2023.pdf) :fr:, [video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4) :fr:
+* *Analyse de sécurité de NetBackup, logiciel de gestion de sauvegardes* by Nicolas Devillers, Jean-Romain Garnier, Anaïs Gantet, Mouad Abouhali and Benoît Camredon at [SSTIC](https://www.sstic.org/2023/presentation/analyse_securite_netbackup): [Slides](netbackup/NetBackupSSTIC2023.pdf) :fr:, [Video](https://static.sstic.org/videos2023/1080p/analyse_securite_netbackup.mp4) :fr:
 
 #### Articles
 
@@ -53,21 +53,21 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 * BMC Truesight Server Automation (RSCD) default password for the BladeLogicRSCDDC user: [BMC advisories 1](https://docs.bmc.com/docs/serverautomation/213/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389136.html) [2](https://docs.bmc.com/docs/tssa2002/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389262.html) [3](https://docs.bmc.com/docs/tssa2102/notification-of-rscd-agent-security-issues-in-truesight-server-automation-1077389182.html)
 * Netbackup Primary/Media Server:
   * [VTS22-004](https://www.veritas.com/content/support/en_US/security/VTS22-004) ([CVE-2022-36984](https://nvd.nist.gov/vuln/detail/CVE-2022-36984), 
-[CVE-2022-36985](https://nvd.nist.gov/vuln/detail/CVE-2022-36985), 
-[CVE-2022-36987](https://nvd.nist.gov/vuln/detail/CVE-2022-36987), 
-[CVE-2022-36988](https://nvd.nist.gov/vuln/detail/CVE-2022-36988), 
-[CVE-2022-36989](https://nvd.nist.gov/vuln/detail/CVE-2022-36989), 
-[CVE-2022-36990](https://nvd.nist.gov/vuln/detail/CVE-2022-36990), 
-[CVE-2022-36991](https://nvd.nist.gov/vuln/detail/CVE-2022-36991), 
-[CVE-2022-36992](https://nvd.nist.gov/vuln/detail/CVE-2022-36992), 
-[CVE-2022-36993](https://nvd.nist.gov/vuln/detail/CVE-2022-36993), 
-[CVE-2022-36994](https://nvd.nist.gov/vuln/detail/CVE-2022-36994), 
-[CVE-2022-36995](https://nvd.nist.gov/vuln/detail/CVE-2022-36995), 
-[CVE-2022-36996](https://nvd.nist.gov/vuln/detail/CVE-2022-36996),
-[CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997), 
-[CVE-2022-36998](https://nvd.nist.gov/vuln/detail/CVE-2022-36998), 
-[CVE-2022-36999](https://nvd.nist.gov/vuln/detail/CVE-2022-36999), 
-[CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000))
+    [CVE-2022-36985](https://nvd.nist.gov/vuln/detail/CVE-2022-36985),
+    [CVE-2022-36987](https://nvd.nist.gov/vuln/detail/CVE-2022-36987),
+    [CVE-2022-36988](https://nvd.nist.gov/vuln/detail/CVE-2022-36988),
+    [CVE-2022-36989](https://nvd.nist.gov/vuln/detail/CVE-2022-36989),
+    [CVE-2022-36990](https://nvd.nist.gov/vuln/detail/CVE-2022-36990),
+    [CVE-2022-36991](https://nvd.nist.gov/vuln/detail/CVE-2022-36991),
+    [CVE-2022-36992](https://nvd.nist.gov/vuln/detail/CVE-2022-36992),
+    [CVE-2022-36993](https://nvd.nist.gov/vuln/detail/CVE-2022-36993),
+    [CVE-2022-36994](https://nvd.nist.gov/vuln/detail/CVE-2022-36994),
+    [CVE-2022-36995](https://nvd.nist.gov/vuln/detail/CVE-2022-36995),
+    [CVE-2022-36996](https://nvd.nist.gov/vuln/detail/CVE-2022-36996),
+    [CVE-2022-36997](https://nvd.nist.gov/vuln/detail/CVE-2022-36997),
+    [CVE-2022-36998](https://nvd.nist.gov/vuln/detail/CVE-2022-36998),
+    [CVE-2022-36999](https://nvd.nist.gov/vuln/detail/CVE-2022-36999),
+    [CVE-2022-37000](https://nvd.nist.gov/vuln/detail/CVE-2022-37000))
   * [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) ([CVE-2022-42306](https://nvd.nist.gov/vuln/detail/CVE-2022-42306), [CVE-2022-42308](https://nvd.nist.gov/vuln/detail/CVE-2022-42308))
   * [VTS22-011](https://www.veritas.com/content/support/en_US/security/VTS22-011) ([CVE-2022-42302](https://nvd.nist.gov/vuln/detail/CVE-2022-42302), [CVE-2022-42303](https://nvd.nist.gov/vuln/detail/CVE-2022-42303), [CVE-2022-42304](https://nvd.nist.gov/vuln/detail/CVE-2022-42304))
   * [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) ([CVE-2022-42299](https://nvd.nist.gov/vuln/detail/CVE-2022-42299), [CVE-2022-42305](https://nvd.nist.gov/vuln/detail/CVE-2022-42305), [CVE-2022-42307](https://nvd.nist.gov/vuln/detail/CVE-2022-42307))
@@ -77,12 +77,12 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
   * [VTS22-010](https://www.veritas.com/content/support/en_US/security/VTS22-010) ([CVE-2022-42306](https://nvd.nist.gov/vuln/detail/CVE-2022-42306), [CVE-2022-42308](https://nvd.nist.gov/vuln/detail/CVE-2022-42308))
   * [VTS22-012](https://www.veritas.com/content/support/en_US/security/VTS22-012) ([CVE-2022-42299](https://nvd.nist.gov/vuln/detail/CVE-2022-42299), [CVE-2022-42305](https://nvd.nist.gov/vuln/detail/CVE-2022-42305), [CVE-2022-42307](https://nvd.nist.gov/vuln/detail/CVE-2022-42307))
 * NetBackup OpsCenter: [VTS22-009](https://www.veritas.com/content/support/en_US/security/VTS22-009) ([CVE-2022-36948](https://nvd.nist.gov/vuln/detail/CVE-2022-36948), 
-[CVE-2022-36949](https://nvd.nist.gov/vuln/detail/CVE-2022-36949), 
-[CVE-2022-36950](https://nvd.nist.gov/vuln/detail/CVE-2022-36950), 
-[CVE-2022-36951](https://nvd.nist.gov/vuln/detail/CVE-2022-36951), 
-[CVE-2022-36953](https://nvd.nist.gov/vuln/detail/CVE-2022-36953), 
-[CVE-2022-36954](https://nvd.nist.gov/vuln/detail/CVE-2022-36954), 
-[CVE-2022-23457](https://nvd.nist.gov/vuln/detail/CVE-2022-23457))
+  [CVE-2022-36949](https://nvd.nist.gov/vuln/detail/CVE-2022-36949),
+  [CVE-2022-36950](https://nvd.nist.gov/vuln/detail/CVE-2022-36950),
+  [CVE-2022-36951](https://nvd.nist.gov/vuln/detail/CVE-2022-36951),
+  [CVE-2022-36953](https://nvd.nist.gov/vuln/detail/CVE-2022-36953),
+  [CVE-2022-36954](https://nvd.nist.gov/vuln/detail/CVE-2022-36954),
+  [CVE-2022-23457](https://nvd.nist.gov/vuln/detail/CVE-2022-23457))
 
 ### 2021
 
