@@ -102,7 +102,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 * Xerox VersaLink remote command execution: [XRX21D](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink.pdf)
 * Xerox WorkCentre, ColorQube: [XRX21F](https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21F_for_WC75xx.pdf), [XRX21G](https://security.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21G_for_CQ8700-8900-93xx.pdf)
-* BMC Control-M: [Security bulletin](https://docs.bmc.com/docs/pages/viewpage.action?pageId=1382868372), [security wall of fame](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
+* BMC Control-M: [Security bulletin](https://docs.bmc.com/docs/pages/viewpage.action?pageId=1382868372), [Knowledge Article](https://bmcapps.my.site.com/casemgmt/sc_KnowledgeArticle?sfdcid=000442099) ([CVE-2025-55109](https://nvd.nist.gov/vuln/detail/CVE-2025-55109), [CVE-2025-55110](https://nvd.nist.gov/vuln/detail/CVE-2025-55110), [CVE-2025-55111](https://nvd.nist.gov/vuln/detail/CVE-2025-55111), [CVE-2025-55112](https://nvd.nist.gov/vuln/detail/CVE-2025-55112), [CVE-2025-55113](https://nvd.nist.gov/vuln/detail/CVE-2025-55113), [CVE-2025-55114](https://nvd.nist.gov/vuln/detail/CVE-2025-55114), [CVE-2025-55115](https://nvd.nist.gov/vuln/detail/CVE-2025-55115), [CVE-2025-55116](https://nvd.nist.gov/vuln/detail/CVE-2025-55116), [CVE-2025-55117](https://nvd.nist.gov/vuln/detail/CVE-2025-55117), [CVE-2025-55118](https://nvd.nist.gov/vuln/detail/CVE-2025-55118))
 
 #### Tools
 
