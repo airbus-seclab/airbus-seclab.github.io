@@ -23,6 +23,16 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 * [soxy](https://github.com/airbus-seclab/soxy): A suite of services (SOCKS, FTP, shell, etc.) over Citrix, VMware Horizon and native Windows RDP
 * [afl-cov-fast](https://github.com/airbus-seclab/afl-cov-fast): Tool to produce code coverage reports for AFL++ fuzzing campaigns with source code or in binary-only mode 
 
+#### Vulnerabilities
+
+* Acronis Cyber Protect:
+    * [CVE-2025-30413](https://security-advisory.acronis.com/SEC-8658): Credentials never deleted from Acronis Agents,
+    * [CVE-2025-30411](https://security-advisory.acronis.com/SEC-8768): Authentication bypass in Acronis Management Server,
+    * [CVE-2025-30416](https://security-advisory.acronis.com/SEC-8766): Missing Authorization in Acronis Management Server,
+    * [CVE-2025-30412](https://security-advisory.acronis.com/SEC-8598): Authentication bypass in Acronis Management Server,
+    * [CVE-2025-30410](https://security-advisory.acronis.com/SEC-8641): Lack of authentication in Acronis Agent and Acronis Management Server,
+    * [CVE-2025-30415](https://security-advisory.acronis.com/SEC-8646): Denial of service in Acronis Agent and Acronis Management Server. 
+
 ### 2024
 
 #### Vulnerabilities
