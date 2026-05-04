@@ -10,6 +10,14 @@ Airbus security lab was previously known as, in chronological order:
 
 Find all our tools on Github: <https://github.com/airbus-seclab>.
 
+### 2026
+
+#### Vulnerabilities
+
+* MoveIt
+   * [CVE-2026-5174](https://www.cve.org/CVERecord?id=CVE-2026-5174)
+   * [CVE-2026-4670](https://www.cve.org/CVERecord?id=CVE-2026-4670)
+
 ### 2025
 
 #### Publications
