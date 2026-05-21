@@ -17,6 +17,10 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 * MoveIt Automation
    * [CVE-2026-5174](https://www.cve.org/CVERecord?id=CVE-2026-5174)
    * [CVE-2026-4670](https://www.cve.org/CVERecord?id=CVE-2026-4670)
+   * [CVE-2026-8485](https://www.cve.org/CVERecord?id=CVE-2026-8485)
+   * [CVE-2026-8486](https://www.cve.org/CVERecord?id=CVE-2026-8486)
+   * [CVE-2026-8487](https://www.cve.org/CVERecord?id=CVE-2026-8487)
+   * [CVE-2026-8488](https://www.cve.org/CVERecord?id=CVE-2026-8488)
 
 ### 2025
 
