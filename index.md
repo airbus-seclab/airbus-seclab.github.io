@@ -15,12 +15,16 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 #### Vulnerabilities
 
 * MoveIt Automation
-   * [CVE-2026-5174](https://www.cve.org/CVERecord?id=CVE-2026-5174)
-   * [CVE-2026-4670](https://www.cve.org/CVERecord?id=CVE-2026-4670)
-   * [CVE-2026-8485](https://www.cve.org/CVERecord?id=CVE-2026-8485)
-   * [CVE-2026-8486](https://www.cve.org/CVERecord?id=CVE-2026-8486)
-   * [CVE-2026-8487](https://www.cve.org/CVERecord?id=CVE-2026-8487)
-   * [CVE-2026-8488](https://www.cve.org/CVERecord?id=CVE-2026-8488)
+    * [CVE-2026-5174](https://www.cve.org/CVERecord?id=CVE-2026-5174)
+    * [CVE-2026-4670](https://www.cve.org/CVERecord?id=CVE-2026-4670)
+    * [CVE-2026-8485](https://www.cve.org/CVERecord?id=CVE-2026-8485)
+    * [CVE-2026-8486](https://www.cve.org/CVERecord?id=CVE-2026-8486)
+    * [CVE-2026-8487](https://www.cve.org/CVERecord?id=CVE-2026-8487)
+    * [CVE-2026-8488](https://www.cve.org/CVERecord?id=CVE-2026-8488)
+* BMC Control-M Server and Enterprise Manager:
+    * [CVE-2026-10538](https://www.cve.org/cverecord?id=CVE-2026-10538): Authenticated arbitrary Java deserialization in Control-M/Server and Control-M/Enterprise Manager,
+    * [CVE-2026-10539](https://www.cve.org/cverecord?id=CVE-2026-10539): Unauthenticated remote command injection in Control-M/Server,
+    * [CVE-2026-10540](https://www.cve.org/cverecord?id=CVE-2026-10540): Weak password hashes in Control-M/Enterprise Manager.
 
 ### 2025
 
