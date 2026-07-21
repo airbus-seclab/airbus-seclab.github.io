@@ -54,8 +54,9 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 #### Vulnerabilities
 
 * FireEye EDR (Trellix Endpoint Security):
-  * Agent to Console XXE, zip bomb: [Trellix advisory](https://thrive.trellix.com/s/article/000014214), [CVE-2025-0617](https://nvd.nist.gov/vuln/detail/CVE-2025-0617)
   * Tamper protection persistent denial of service: [Trellix advisory](https://thrive.trellix.com/s/article/000014456), [CVE-2025-0618](https://nvd.nist.gov/vuln/detail/CVE-2025-0618)
+  * Agent to Console XXE: [Trellix advisory](https://thrive.trellix.com/s/article/000014214), [CVE-2025-0617](https://nvd.nist.gov/vuln/detail/CVE-2025-0617)
+  * Agent to Console zip bomb: [Trellix advisory](https://support.trellix.com/s/article/000015595), [CVE-2026-12588](https://nvd.nist.gov/vuln/detail/CVE-2026-12588)
 
 ### 2023
 
