@@ -14,6 +14,8 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
 
 #### Vulnerabilities
 
+* WhatsUp Gold
+    * [CVE-2026-65941](https://www.cve.org/CVERecord?id=CVE-2026-65941)
 * MoveIt Automation
     * [CVE-2026-5174](https://www.cve.org/CVERecord?id=CVE-2026-5174)
     * [CVE-2026-4670](https://www.cve.org/CVERecord?id=CVE-2026-4670)
