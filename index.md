@@ -24,6 +24,7 @@ Find all our tools on Github: <https://github.com/airbus-seclab>.
     * [CVE-2026-8487](https://www.cve.org/CVERecord?id=CVE-2026-8487)
     * [CVE-2026-8488](https://www.cve.org/CVERecord?id=CVE-2026-8488)
 * BMC Control-M Server and Enterprise Manager:
+    * [CVE-2026-10537](https://www.cve.org/cverecord?id=CVE-2026-10537): Information leak and Denial of Service in Control-M/Enterprise Manager and Server,
     * [CVE-2026-10538](https://www.cve.org/cverecord?id=CVE-2026-10538): Authenticated arbitrary Java deserialization in Control-M/Server and Control-M/Enterprise Manager,
     * [CVE-2026-10539](https://www.cve.org/cverecord?id=CVE-2026-10539): Unauthenticated remote command injection in Control-M/Server,
     * [CVE-2026-10540](https://www.cve.org/cverecord?id=CVE-2026-10540): Weak password hashes in Control-M/Enterprise Manager.
